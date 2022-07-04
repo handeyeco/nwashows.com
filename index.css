@@ -1,0 +1,12 @@
+ul {
+  list-style-type: none;
+}
+
+.event-listing {
+  margin-bottom: 1rem;
+}
+
+.event-listing__details,
+.event-listing__lineup {
+  color: grey;
+}
