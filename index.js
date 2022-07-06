@@ -1,140 +1,146 @@
 function processList(input) {
   if (!Array.isArray(input)) {
-    throw new Error('processList needs an array')
+    throw new Error("processList needs an array");
   }
 
-  const beginningOfDay = new Date()
-  beginningOfDay.setHours(0,0,0,0)
+  const beginningOfDay = new Date();
+  beginningOfDay.setHours(0, 0, 0, 0);
 
-  
   let list = input.reduce((acc, e) => {
     // Filter events before today and group dates
-    e.datetime = new Date(`${e.date}T${e.time}`)
+    e.datetime = new Date(`${e.date}T${e.time}`);
     if (e.datetime.getTime() >= beginningOfDay.getTime()) {
-      acc[e.date] = acc[e.date] || []
-      acc[e.date].push(e)
+      acc[e.date] = acc[e.date] || [];
+      acc[e.date].push(e);
     }
 
-    return acc
-  }, {})
+    return acc;
+  }, {});
 
   // Sort events by time within date groups
-  Object.keys(list).forEach(date => {
+  Object.keys(list).forEach((date) => {
     list[date] = list[date].sort((a, b) => {
-      return a.datetime.getTime() - b.datetime.getTime()
-    })
-  })
+      return a.datetime.getTime() - b.datetime.getTime();
+    });
+  });
 
   // Sort and stash dates
   list.__sortedDates = Object.keys(list).sort((a, b) => {
-    let aInt = parseInt(a.replace('-', ''))
-    let bInt = parseInt(b.replace('-', ''))
-    return aInt - bInt
-  })
+    let aInt = parseInt(a.replace("-", ""));
+    let bInt = parseInt(b.replace("-", ""));
+    return aInt - bInt;
+  });
 
-  return list
+  return list;
 }
 
 const _dayNames = [
-  'Sunday',
-  'Monday',
-  'Tuesday',
-  'Wednesday',
-  'Thurday',
-  'Friday',
-  'Saturday',
-]
+  "Sunday",
+  "Monday",
+  "Tuesday",
+  "Wednesday",
+  "Thurday",
+  "Friday",
+  "Saturday",
+];
 const _monthNames = [
-  'January',
-  'February',
-  'March',
-  'April',
-  'May',
-  'June',
-  'July',
-  'August',
-  'September',
-  'October',
-  'November',
-  'December',
-]
+  "January",
+  "February",
+  "March",
+  "April",
+  "May",
+  "June",
+  "July",
+  "August",
+  "September",
+  "October",
+  "November",
+  "December",
+];
 function formatDateHeader(dateStr) {
-  const date = new Date(`${dateStr}T00:00+00:00`)
+  const date = new Date(`${dateStr}T00:00+00:00`);
 
-  const day = _dayNames[date.getUTCDay()]
-  const month = _monthNames[date.getUTCMonth()]
-  return `${day} - ${month} ${date.getUTCDate()}, ${date.getUTCFullYear()}`
+  const day = _dayNames[date.getUTCDay()];
+  const month = _monthNames[date.getUTCMonth()];
+  return `${day} - ${month} ${date.getUTCDate()}, ${date.getUTCFullYear()}`;
 }
 
 function generateEventHtml(event) {
-  const eventLI = document.createElement('li')
-  eventLI.className = 'event-listing'
+  const eventLI = document.createElement("li");
+  eventLI.className = "event-listing";
 
   // convert military time
-  let [hours, minutes] = event.time.split(':')
-  let am = true
-  let parsedHours = parseInt(hours)
+  let [hours, minutes] = event.time.split(":");
+  let am = true;
+  let parsedHours = parseInt(hours);
   if (parsedHours >= 12) {
-    am = false
+    am = false;
     if (parsedHours > 12) {
-      parsedHours -= 12
+      parsedHours -= 12;
     }
   }
 
   eventLI.innerHTML = `
-    <span class="event-listing__title">${event.title || event.lineup}</span>
+  <p>
+    <a class="event-listing__link" href="${event.eventLink}" target="_blank">${
+    event.title || event.lineup
+  }</a>
     ${
       event.venueLink
-        ? `at <a class="event-listing__venue" href="${event.venueLink}" target="_blank">${event.venueName}</a>` 
+        ? `at <a class="event-listing__venue" href="${event.venueLink}" target="_blank">${event.venueName}</a>`
         : `at <span class="event-listing__venue">${event.venueName}</span>`
     }
-    <span class="event-listing__details">[${parsedHours}:${minutes}${am ? 'am' : 'pm'} - ${event.ageLimit}]</span>
-    ${
-      event.title ? `<br><span class="event-listing__lineup">&#x21B3; ${event.lineup}</span>` : ''
-    }
-  `
+    <p>
+    ${event.title ? `<p class="event-listing__lineup">${event.lineup}</p>` : ""}
+    <p class="event-listing__details">
+      [${parsedHours}:${minutes}${am ? "am" : "pm"} - 
+      <a href="${event.venueLocation}" target="_blank">Map</a> - 
+      ${event.ageLimit}]
+    </p>
+  `;
 
-  return eventLI
+  return eventLI;
 }
 
 function generateDayHtml(list, date) {
-  const dayLI = document.createElement('li')
+  const dayLI = document.createElement("li");
+  dayLI.className = "day-listing";
 
-  const dayHead = document.createElement('h3')
-  dayHead.innerText = formatDateHeader(date)
-  dayLI.append(dayHead)
+  const dayHead = document.createElement("h3");
+  dayHead.innerText = formatDateHeader(date);
+  dayLI.append(dayHead);
 
-  const dayUL = document.createElement('ul')
-  list[date].forEach(event => {
-    dayUL.append(generateEventHtml(event))
-  })
-  dayLI.append(dayUL)
+  const dayUL = document.createElement("ul");
+  list[date].forEach((event) => {
+    dayUL.append(generateEventHtml(event));
+  });
+  dayLI.append(dayUL);
 
-  return dayLI
+  return dayLI;
 }
 
 function generateListHtml(list) {
   if (!list) {
-    throw new Error('renderList not provided an input')
+    throw new Error("renderList not provided an input");
   }
 
-  const baseUL = document.createElement('ul')
-  list.__sortedDates.forEach(date => {
-    baseUL.append(generateDayHtml(list, date))
-  })
+  const baseUL = document.createElement("ul");
+  list.__sortedDates.forEach((date) => {
+    baseUL.append(generateDayHtml(list, date));
+  });
 
-  return baseUL
+  return baseUL;
 }
 
 function renderList(list) {
-  const mount = document.getElementById('showlist-mount')
-  const html = generateListHtml(list)
-  mount.append(html)
+  const mount = document.getElementById("showlist-mount");
+  const html = generateListHtml(list);
+  mount.append(html);
 }
 
 function main() {
-  const list = processList(__the__list__)
-  renderList(list)
+  const list = processList(__the__list__);
+  renderList(list);
 }
 
-main()
+main();

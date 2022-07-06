@@ -1,12 +1,52 @@
+body, html {
+  font-size: 10px;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  font-size: 1.8rem;
+}
+
+h2 {
+  padding-top: 2rem;
+}
+
+h3 {
+  padding: 0.75rem 2rem;
+  background: steelblue;
+  color: white;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: steelblue;
+}
+
 ul {
   list-style-type: none;
+  padding: 0;
 }
 
 .event-listing {
-  margin-bottom: 1rem;
+  border-top: 1px solid steelblue;
+  padding: 2rem;
+}
+
+.event-listing:last-of-type {
+  border-bottom: 1px solid steelblue;
+}
+
+.event-listing__link,
+.event-listing__venue {
+  font-weight: bold;
 }
 
 .event-listing__details,
+.event-listing__details > a,
 .event-listing__lineup {
   color: grey;
 }
