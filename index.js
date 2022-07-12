@@ -90,13 +90,11 @@ function generateEventHtml(event) {
         ? `at <a class="event-listing__venue" href="${event.venueLink}" target="_blank">${event.venueName}</a>`
         : `at <span class="event-listing__venue">${event.venueName}</span>`
     }
-    <p>
-    ${event.title ? `<p class="event-listing__lineup">${event.lineup}</p>` : ""}
-    <p class="event-listing__details">
-      [${parsedHours}:${minutes}${am ? "am" : "pm"} - 
-      <a href="${event.venueLocation}" target="_blank">Map</a> - 
-      ${event.ageLimit}]
+    <span class="event-listing__details">
+      ${parsedHours}:${minutes}${am ? "am" : "pm"}
+    </span>
     </p>
+    ${event.title ? `<p class="event-listing__lineup">${event.lineup}</p>` : ""}
   `;
 
   return eventLI;
