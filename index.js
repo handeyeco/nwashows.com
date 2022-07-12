@@ -26,8 +26,8 @@ function processList(input) {
 
   // Sort and stash dates
   list.__sortedDates = Object.keys(list).sort((a, b) => {
-    let aInt = parseInt(a.replace("-", ""));
-    let bInt = parseInt(b.replace("-", ""));
+    let aInt = parseInt(a.replaceAll("-", ""));
+    let bInt = parseInt(b.replaceAll("-", ""));
     return aInt - bInt;
   });
 
