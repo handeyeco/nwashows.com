@@ -18,18 +18,18 @@ header {
 
 .header__link-wrap {
   padding: 1rem;
-  background: white;
+  background: rgb(247, 248, 250);
 }
 
 .header__fade {
   height: 2rem;
-  background: linear-gradient(white, transparent);
+  background: linear-gradient(rgb(247, 248, 250), rgba(247, 248, 250, 0));
 }
 
 .submit-a-show {
   display: block;
   background: rgb(20, 191, 150);
-  color: white;
+  color: rgb(247, 248, 250);
   border: 2px solid rgb(20, 191, 150);
   text-decoration: none;
   font-weight: bold;
@@ -40,7 +40,7 @@ header {
 }
 
 .submit-a-show:hover {
-  background: white;
+  background: rgb(247, 248, 250);
   color: rgb(20, 191, 150);
 }
 
@@ -58,7 +58,7 @@ h3 {
   font-size: 1em;
   padding: 0.75rem 2rem;
   background: steelblue;
-  color: white;
+  color: rgb(247, 248, 250);
 }
 
 a {
