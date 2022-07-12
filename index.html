@@ -13,22 +13,31 @@
 </head>
 
 <body>
+  <header>
+    <div class="header__link-wrap">
+      <a href="https://forms.gle/smrMgs35fQqRerxV9" target="_blank" class="submit-a-show">
+        Submit a show
+      </a>
+    </div>
+    <div class="header__fade"></div>
+  </header>
+
   <div class="container">
     <h1>NWA Shows</h1>
-    <a href="https://forms.gle/smrMgs35fQqRerxV9" target="_blank" class="submit-a-show">
-      Submit a show!
-    </a>
-    <p>If for some reason you found this site, it's not real. It's a WIP.</p>
+    <section class="introduction">
+      <p>Upcoming music in Northwest Arkansas (Washinton and Benton counties). <a
+          href="https://forms.gle/smrMgs35fQqRerxV9" target="_blank">Submit shows here.</a></p>
+    </section>
 
     <section>
       <h2>The List</h2>
+      <label class="search-label">
+        Search Listings
+        <input id="search-input" />
+      </label>
       <noscript>JavaScript must be enabled to show the list.</noscript>
       <div id="showlist-mount"></div>
     </section>
-
-    <a href="https://forms.gle/smrMgs35fQqRerxV9" target="_blank" class="submit-a-show">
-      Submit a show!
-    </a>
   </div>
 
   <script src="list.js"></script>

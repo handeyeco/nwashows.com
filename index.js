@@ -130,15 +130,45 @@ function generateListHtml(list) {
   return baseUL;
 }
 
-function renderList(list) {
+function renderList(list, isSearching) {
   const mount = document.getElementById("showlist-mount");
+  mount.innerHTML = "";
+
+  const isEmpty = list.__sortedDates.length === 0;
+  if (isSearching && isEmpty) {
+    mount.innerHTML = `<p class="empty-list">Sorry, we couldn't find what you were looking for.</p>`;
+    return;
+  } else if (isEmpty) {
+    mount.innerHTML = `<p class="empty-list">We don't know about any shows right now. Feel free to submit one!</p>`;
+    return;
+  }
+
   const html = generateListHtml(list);
   mount.append(html);
+}
+
+function filterList(event) {
+  const lowerSearch = event.target.value.toLowerCase();
+  const filtered = __the__list__.filter((l) => {
+    if (!lowerSearch) return true;
+
+    return (
+      l.title.toLocaleLowerCase().includes(lowerSearch) ||
+      l.venueName.toLocaleLowerCase().includes(lowerSearch) ||
+      l.lineup.toLocaleLowerCase().includes(lowerSearch)
+    );
+  });
+
+  const newList = processList(filtered);
+  renderList(newList, lowerSearch);
 }
 
 function main() {
   const list = processList(__the__list__);
   renderList(list);
+
+  const searchInput = document.getElementById("search-input");
+  searchInput.oninput = filterList;
 }
 
 main();
