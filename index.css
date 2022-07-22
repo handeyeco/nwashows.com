@@ -39,11 +39,6 @@ header {
   box-shadow: 2px 2px 4px 0 grey;
 }
 
-.submit-a-show:hover {
-  background: rgb(20, 191, 150);
-  color: rgb(247, 248, 250);
-}
-
 .container {
   max-width: 900px;
   margin: 10rem auto;
@@ -51,7 +46,11 @@ header {
 }
 
 .introduction {
-  padding: 2rem 0;
+  padding-bottom: 2rem;
+}
+
+.introduction > p {
+  padding: 1rem 0;
 }
 
 h3 {
@@ -63,6 +62,7 @@ h3 {
 
 a {
   color: rgb(68, 68, 68);
+  font-weight: bold;
 }
 
 a:hover {
@@ -88,7 +88,6 @@ ul {
 .event-listing__venue {
   display: inline-block;
   margin: 0 0.1em;
-  font-weight: bold;
 }
 
 .event-listing__details,
