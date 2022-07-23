@@ -1,55 +1,5 @@
 const __the__list__ = [
   {
-    "lineup": "Josh Groban, Preservation Hall Jazz Band",
-    "title": "",
-    "date": "2022-07-21",
-    "time": "19:00",
-    "venueName": "Walmart AMP",
-    "venueLink": "https://waltonartscenter.org/AMP/",
-    "eventLink": "https://waltonartscenter.org/AMP/upcoming-concerts/josh-groban/",
-    "hide": false
-  },
-  {
-    "lineup": "Green Acres, Ted Hammig and the Campaign",
-    "title": "",
-    "date": "2022-07-21",
-    "time": "20:30",
-    "venueName": "George’s Majestic Lounge",
-    "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4632/vn",
-    "hide": false
-  },
-  {
-    "lineup": "The Jeff Horton Band",
-    "title": "",
-    "date": "2022-07-22",
-    "time": "18:00",
-    "venueName": "George’s Majestic Lounge",
-    "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4513/vn",
-    "hide": false
-  },
-  {
-    "lineup": "Skye Pollard & Family Holler, Woody & Sunshine",
-    "title": "",
-    "eventLink": "https://www.prairiestreetlive.com/events/skye-pollard-family-holler-w-woody-sunshine",
-    "date": "2022-07-22",
-    "time": "18:30",
-    "venue": "Prairie Street Live (509 W Prairie St)",
-    "venueName": "Prairie Street Live",
-    "venueLink": "https://www.prairiestreetlive.com/"
-  },
-  {
-    "lineup": "Hillbenders, Eureka Strings",
-    "title": "",
-    "date": "2022-07-22",
-    "time": "21:00",
-    "venueName": "George’s Majestic Lounge",
-    "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4606/vn",
-    "hide": false
-  },
-  {
     "lineup": "Western Swing Rules Band",
     "title": "",
     "eventLink": "https://www.faylib.org/event/6634544",
@@ -58,16 +8,6 @@ const __the__list__ = [
     "venue": "Fayetteville Public Library (401 W Mountain St)",
     "venueName": "Fayetteville Public Library",
     "venueLink": "https://www.faylib.org/"
-  },
-  {
-    "lineup": "Jer's itty bitty Big Jazz Band",
-    "title": "",
-    "eventLink": "https://www.facebook.com/events/324863119749744/",
-    "date": "2022-07-24",
-    "time": "18:00",
-    "venue": "Six Twelve (3980 W Wedington Dr)",
-    "venueName": "Six Twelve",
-    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar"
   },
   {
     "lineup": "The Red Jumpsuit Apparatus, Attack Attack!, Kingdom Collapse, Astoria State",
@@ -80,6 +20,16 @@ const __the__list__ = [
     "hide": false
   },
   {
+    "lineup": "Jeremiah Griffin",
+    "title": "Six Twelve Open Mic Night",
+    "date": "2022-07-26",
+    "time": "19:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "eventLink": "https://www.facebook.com/events/353953552811144",
+    "hide": false
+  },
+  {
     "lineup": "5 Seconds of Summer",
     "title": "",
     "date": "2022-07-26",
@@ -87,6 +37,16 @@ const __the__list__ = [
     "venueName": "Walmart AMP",
     "venueLink": "https://waltonartscenter.org/AMP/",
     "eventLink": "https://waltonartscenter.org/AMP/upcoming-concerts/5-seconds-of-summer/",
+    "hide": false
+  },
+  {
+    "lineup": "Ben Harris",
+    "title": "",
+    "date": "2022-07-27",
+    "time": "17:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "eventLink": "https://www.facebook.com/events/610295503291528",
     "hide": false
   },
   {
@@ -117,6 +77,16 @@ const __the__list__ = [
     "venueName": "Walmart AMP",
     "venueLink": "https://waltonartscenter.org/AMP/",
     "eventLink": "https://waltonartscenter.org/AMP/upcoming-concerts/chris-stapleton/",
+    "hide": false
+  },
+  {
+    "lineup": "JR Neal Piano Man",
+    "title": "",
+    "date": "2022-07-29",
+    "time": "19:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "eventLink": "https://www.facebook.com/events/712501926469229",
     "hide": false
   },
   {
@@ -160,6 +130,26 @@ const __the__list__ = [
     "hide": false
   },
   {
+    "lineup": "Rachel B",
+    "title": "",
+    "date": "2022-07-31",
+    "time": "19:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "eventLink": "https://www.facebook.com/events/453713789925161",
+    "hide": false
+  },
+  {
+    "lineup": "Peter Rexford",
+    "title": "",
+    "date": "2022-08-02",
+    "time": "19:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "eventLink": "https://www.facebook.com/events/4722331881200631",
+    "hide": false
+  },
+  {
     "lineup": "Big Time Rush, Spenser Sutherland",
     "title": "",
     "date": "2022-08-02",
@@ -177,6 +167,16 @@ const __the__list__ = [
     "venueName": "Walmart AMP",
     "venueLink": "https://waltonartscenter.org/AMP/",
     "eventLink": "https://waltonartscenter.org/AMP/upcoming-concerts/dierks-bentley/",
+    "hide": false
+  },
+  {
+    "lineup": "Awayne",
+    "title": "",
+    "date": "2022-08-04",
+    "time": "19:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "eventLink": "https://www.facebook.com/events/313605964315215",
     "hide": false
   },
   {
@@ -220,6 +220,26 @@ const __the__list__ = [
     "hide": false
   },
   {
+    "lineup": "Magnolia Brown",
+    "title": "",
+    "date": "2022-08-05",
+    "time": "21:00",
+    "venueName": "Kingfish",
+    "venueLink": "https://www.kingfishbar.com/",
+    "eventLink": "https://www.facebook.com/events/2265492543607474",
+    "hide": false
+  },
+  {
+    "lineup": "Peter Rexford",
+    "title": "",
+    "date": "2022-08-06",
+    "time": "20:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "eventLink": "https://www.facebook.com/events/1165575664277409",
+    "hide": false
+  },
+  {
     "lineup": "The Red Lens, Kin & Company, Miles End Beach, Mildenhall",
     "title": "",
     "date": "2022-08-06",
@@ -227,6 +247,16 @@ const __the__list__ = [
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
     "eventLink": "https://stubs.net/tickets/4712/vn",
+    "hide": false
+  },
+  {
+    "lineup": "The Flipoff Pirates",
+    "title": "",
+    "date": "2022-08-07",
+    "time": "20:00",
+    "venueName": "Kingfish",
+    "venueLink": "https://www.kingfishbar.com/",
+    "eventLink": "https://www.facebook.com/events/724995082126920",
     "hide": false
   },
   {
@@ -250,6 +280,16 @@ const __the__list__ = [
     "hide": false
   },
   {
+    "lineup": "Jeremiah Griffin",
+    "title": "Six Twelve Open Mic Night",
+    "date": "2022-08-09",
+    "time": "19:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "eventLink": "https://www.facebook.com/events/1604556693269958",
+    "hide": false
+  },
+  {
     "lineup": "Halestorm, The Pretty Reckless, The Warning, Lilith Czar",
     "title": "",
     "date": "2022-08-10",
@@ -260,6 +300,16 @@ const __the__list__ = [
     "hide": false
   },
   {
+    "lineup": "Mountain Gypsies",
+    "title": "",
+    "date": "2022-08-10",
+    "time": "19:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "eventLink": "https://www.facebook.com/events/1037079440200505",
+    "hide": false
+  },
+  {
     "lineup": "Michael Franti, Spearhead",
     "title": "",
     "date": "2022-08-11",
@@ -267,6 +317,16 @@ const __the__list__ = [
     "venueName": "JJ's Live",
     "venueLink": "https://www.jjslive.com",
     "eventLink": "https://www.jjslive.com/event/michael-franti-spearhead-august-11/",
+    "hide": false
+  },
+  {
+    "lineup": "Awayne",
+    "title": "",
+    "date": "2022-08-11",
+    "time": "19:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "eventLink": "https://www.facebook.com/events/741142917046762",
     "hide": false
   },
   {
@@ -300,6 +360,26 @@ const __the__list__ = [
     "hide": false
   },
   {
+    "lineup": "Mike Bewley",
+    "title": "",
+    "date": "2022-08-13",
+    "time": "19:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "eventLink": "https://www.facebook.com/events/659263958414272",
+    "hide": false
+  },
+  {
+    "lineup": "Ley Lines, Green Acres",
+    "title": "",
+    "date": "2022-08-13",
+    "time": "20:00",
+    "venueName": "Kingfish",
+    "venueLink": "https://www.kingfishbar.com/",
+    "eventLink": "https://www.facebook.com/events/1787445111593148",
+    "hide": false
+  },
+  {
     "lineup": "Black Joe Lewis & the Honeybears",
     "title": "",
     "date": "2022-08-14",
@@ -317,6 +397,16 @@ const __the__list__ = [
     "venueName": "Walmart AMP",
     "venueLink": "https://waltonartscenter.org/AMP/",
     "eventLink": "https://waltonartscenter.org/AMP/upcoming-concerts/incubus/",
+    "hide": false
+  },
+  {
+    "lineup": "Peter Rexford",
+    "title": "",
+    "date": "2022-08-16",
+    "time": "19:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "eventLink": "https://www.facebook.com/events/1074206529844381",
     "hide": false
   },
   {
@@ -350,6 +440,26 @@ const __the__list__ = [
     "hide": false
   },
   {
+    "lineup": "J Ray Davis",
+    "title": "",
+    "date": "2022-08-19",
+    "time": "19:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "eventLink": "https://www.facebook.com/events/367651798859971",
+    "hide": false
+  },
+  {
+    "lineup": "The Cole Birmingham Band",
+    "title": "",
+    "date": "2022-08-19",
+    "time": "20:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "eventLink": "https://www.facebook.com/events/209642984583805",
+    "hide": false
+  },
+  {
     "lineup": "Ozark Riviera",
     "title": "",
     "date": "2022-08-19",
@@ -357,6 +467,36 @@ const __the__list__ = [
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
     "eventLink": "https://stubs.net/tickets/4623/vn",
+    "hide": false
+  },
+  {
+    "lineup": "Matteson Gregory",
+    "title": "",
+    "date": "2022-08-20",
+    "time": "19:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "eventLink": "https://www.facebook.com/events/180885264200441",
+    "hide": false
+  },
+  {
+    "lineup": "Jeremiah Griffin",
+    "title": "Six Twelve Open Mic Night",
+    "date": "2022-08-23",
+    "time": "19:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "eventLink": "https://www.facebook.com/events/2075580209266489",
+    "hide": false
+  },
+  {
+    "lineup": "James \"Daddy\" Miller",
+    "title": "",
+    "date": "2022-08-25",
+    "time": "18:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "eventLink": "https://www.facebook.com/events/531103535368397",
     "hide": false
   },
   {
