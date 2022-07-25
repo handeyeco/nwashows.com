@@ -1,5 +1,15 @@
 const __the__list__ = [
   {
+    "lineup": "Dale Stokes",
+    "title": "",
+    "date": "2022-07-25",
+    "time": "18:00",
+    "venueName": "JJ's Springdale",
+    "venueLink": "https://jjsgrill.com/jjsspringdale/",
+    "eventLink": "https://www.facebook.com/events/3325397737704053",
+    "hide": false
+  },
+  {
     "lineup": "Jeremiah Griffin",
     "title": "Six Twelve Open Mic Night",
     "date": "2022-07-26",
@@ -107,6 +117,16 @@ const __the__list__ = [
     "venueName": "JJ's Live",
     "venueLink": "https://www.jjslive.com",
     "eventLink": "https://www.jjslive.com/event/mustache-the-band-july-30/",
+    "hide": false
+  },
+  {
+    "lineup": "Neon Flight",
+    "title": "",
+    "date": "2022-07-30",
+    "time": "19:00",
+    "venueName": "Bike Rack Brewing",
+    "venueLink": "https://bikerackbrewing.com/",
+    "eventLink": "https://www.facebook.com/events/1720216698319447",
     "hide": false
   },
   {
@@ -247,6 +267,16 @@ const __the__list__ = [
     "venueName": "Kingfish",
     "venueLink": "https://www.kingfishbar.com/",
     "eventLink": "https://www.facebook.com/events/2265492543607474",
+    "hide": false
+  },
+  {
+    "lineup": "Farmers & the Market Trio",
+    "title": "",
+    "date": "2022-08-06",
+    "time": "19:00",
+    "venueName": "Bike Rack Brewing",
+    "venueLink": "https://bikerackbrewing.com/",
+    "eventLink": "https://www.facebook.com/events/502996911513307",
     "hide": false
   },
   {
@@ -440,6 +470,16 @@ const __the__list__ = [
     "hide": false
   },
   {
+    "lineup": "Melody Pond",
+    "title": "",
+    "date": "2022-08-18",
+    "time": "19:00",
+    "venueName": "Bike Rack Brewing",
+    "venueLink": "https://bikerackbrewing.com/",
+    "eventLink": "https://www.facebook.com/events/754350252424203",
+    "hide": false
+  },
+  {
     "lineup": "Keith Urban, Ingrid Andress",
     "title": "",
     "date": "2022-08-18",
@@ -537,6 +577,16 @@ const __the__list__ = [
     "venueName": "Six Twelve",
     "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
     "eventLink": "https://www.facebook.com/events/531103535368397",
+    "hide": false
+  },
+  {
+    "lineup": "Randall Shreve",
+    "title": "",
+    "date": "2022-08-25",
+    "time": "19:00",
+    "venueName": "Bike Rack Brewing",
+    "venueLink": "https://bikerackbrewing.com/",
+    "eventLink": "https://www.facebook.com/events/397161459051237",
     "hide": false
   },
   {
@@ -657,6 +707,16 @@ const __the__list__ = [
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
     "eventLink": "https://stubs.net/tickets/4722/vn",
+    "hide": false
+  },
+  {
+    "lineup": "Ley Lines",
+    "title": "",
+    "date": "2022-09-03",
+    "time": "19:00",
+    "venueName": "Bike Rack Brewing",
+    "venueLink": "https://bikerackbrewing.com/",
+    "eventLink": "https://www.facebook.com/events/263184529286293",
     "hide": false
   },
   {
