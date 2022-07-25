@@ -1,25 +1,5 @@
 const __the__list__ = [
   {
-    "lineup": "Western Swing Rules Band",
-    "title": "",
-    "eventLink": "https://www.faylib.org/event/6634544",
-    "date": "2022-07-24",
-    "time": "14:00",
-    "venue": "Fayetteville Public Library (401 W Mountain St)",
-    "venueName": "Fayetteville Public Library",
-    "venueLink": "https://www.faylib.org/"
-  },
-  {
-    "lineup": "The Red Jumpsuit Apparatus, Attack Attack!, Kingdom Collapse, Astoria State",
-    "title": "",
-    "date": "2022-07-24",
-    "time": "19:00",
-    "venueName": "George’s Majestic Lounge",
-    "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4591/vn",
-    "hide": false
-  },
-  {
     "lineup": "Jeremiah Griffin",
     "title": "Six Twelve Open Mic Night",
     "date": "2022-07-26",
@@ -90,6 +70,16 @@ const __the__list__ = [
     "hide": false
   },
   {
+    "lineup": "TroubleZ H.C.T, Yxng Strxnge, Kolt Train, Crow, Reno Mix & KDL, Se7en, Physical Emotion",
+    "title": "",
+    "date": "2022-07-29",
+    "time": "20:00",
+    "venueName": "Nomads Trailside",
+    "venueLink": "https://www.facebook.com/nomadstrailside/",
+    "eventLink": "https://www.facebook.com/events/998395577534386",
+    "hide": false
+  },
+  {
     "lineup": "Zebbler Encanti Experience",
     "title": "",
     "date": "2022-07-29",
@@ -120,6 +110,16 @@ const __the__list__ = [
     "hide": false
   },
   {
+    "lineup": "Benadriil, On Holiday, TV Preacher",
+    "title": "",
+    "date": "2022-07-30",
+    "time": "20:00",
+    "venueName": "Nomads Trailside",
+    "venueLink": "https://www.facebook.com/nomadstrailside/",
+    "eventLink": "https://www.facebook.com/events/757432821952669",
+    "hide": false
+  },
+  {
     "lineup": "Friends of the Phamily, Isayah's Allstars",
     "title": "17th Annual Jerry Garcia Birthday Bash",
     "date": "2022-07-30",
@@ -137,6 +137,16 @@ const __the__list__ = [
     "venueName": "Six Twelve",
     "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
     "eventLink": "https://www.facebook.com/events/453713789925161",
+    "hide": false
+  },
+  {
+    "lineup": "Lil Heavn, Bquyet, Nyxkiss, $adboi Crxw",
+    "title": "",
+    "date": "2022-07-31",
+    "time": "20:00",
+    "venueName": "Nomads Trailside",
+    "venueLink": "https://www.facebook.com/nomadstrailside/",
+    "eventLink": "https://www.facebook.com/events/796827744685450",
     "hide": false
   },
   {
@@ -207,6 +217,16 @@ const __the__list__ = [
     "venueName": "JJ's Live",
     "venueLink": "https://www.jjslive.com",
     "eventLink": "https://www.jjslive.com/event/chase-matthew-august-5/",
+    "hide": false
+  },
+  {
+    "lineup": "Like Before, Fight Dream, Protohive",
+    "title": "",
+    "date": "2022-08-05",
+    "time": "20:00",
+    "venueName": "Nomads Trailside",
+    "venueLink": "https://www.facebook.com/nomadstrailside/",
+    "eventLink": "https://www.facebook.com/events/426805865704734",
     "hide": false
   },
   {
@@ -350,6 +370,16 @@ const __the__list__ = [
     "hide": false
   },
   {
+    "lineup": "Senses Divide, DisasterMath, Agentz Of Khaos",
+    "title": "",
+    "date": "2022-08-12",
+    "time": "20:00",
+    "venueName": "Nomads Trailside",
+    "venueLink": "https://www.facebook.com/nomadstrailside/",
+    "eventLink": "https://www.facebook.com/events/2152721038221648",
+    "hide": false
+  },
+  {
     "lineup": "Funk Factory",
     "title": "",
     "date": "2022-08-12",
@@ -480,6 +510,16 @@ const __the__list__ = [
     "hide": false
   },
   {
+    "lineup": "The Big Sad, Tao of Lucy, Rant",
+    "title": "",
+    "date": "2022-08-20",
+    "time": "20:00",
+    "venueName": "Nomads Trailside",
+    "venueLink": "https://www.facebook.com/nomadstrailside/",
+    "eventLink": "https://www.facebook.com/events/733567961065265",
+    "hide": false
+  },
+  {
     "lineup": "Jeremiah Griffin",
     "title": "Six Twelve Open Mic Night",
     "date": "2022-08-23",
@@ -560,6 +600,26 @@ const __the__list__ = [
     "hide": false
   },
   {
+    "lineup": "Circle of Thirds",
+    "title": "",
+    "date": "2022-08-30",
+    "time": "19:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "eventLink": "https://www.facebook.com/events/558465519332928",
+    "hide": false
+  },
+  {
+    "lineup": "Ben Harris",
+    "title": "",
+    "date": "2022-08-31",
+    "time": "17:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "eventLink": "https://www.facebook.com/events/5533283670027681",
+    "hide": false
+  },
+  {
     "lineup": "Gone Country",
     "title": "",
     "date": "2022-09-02",
@@ -577,6 +637,136 @@ const __the__list__ = [
     "venueName": "JJ's Live",
     "venueLink": "https://www.jjslive.com",
     "eventLink": "https://www.jjslive.com/event/black-label-society-september-2/",
+    "hide": false
+  },
+  {
+    "lineup": "Circle of Thirds, Cole Birmingham Band, Moldilocks",
+    "title": "",
+    "date": "2022-09-02",
+    "time": "20:00",
+    "venueName": "Nomads Trailside",
+    "venueLink": "https://www.facebook.com/nomadstrailside/",
+    "eventLink": "https://www.facebook.com/events/1327350551080705",
+    "hide": false
+  },
+  {
+    "lineup": "Arkansauce & Friends",
+    "title": "Hillberry Pre Party",
+    "date": "2022-09-02",
+    "time": "21:00",
+    "venueName": "George’s Majestic Lounge",
+    "venueLink": "https://georgesmajesticlounge.com",
+    "eventLink": "https://stubs.net/tickets/4722/vn",
+    "hide": false
+  },
+  {
+    "lineup": "Peter Rexford",
+    "title": "",
+    "date": "2022-09-03",
+    "time": "20:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "eventLink": "https://www.facebook.com/events/424697655876843",
+    "hide": false
+  },
+  {
+    "lineup": "Very Special Guests",
+    "title": "",
+    "date": "2022-09-04",
+    "time": "20:30",
+    "venueName": "George’s Majestic Lounge",
+    "venueLink": "https://georgesmajesticlounge.com",
+    "eventLink": "https://stubs.net/tickets/4711/vn",
+    "hide": false
+  },
+  {
+    "lineup": "Peter Rexford",
+    "title": "",
+    "date": "2022-09-06",
+    "time": "19:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "eventLink": "https://www.facebook.com/events/1121869035044385",
+    "hide": false
+  },
+  {
+    "lineup": "The Phase",
+    "title": "",
+    "date": "2022-09-07",
+    "time": "20:00",
+    "venueName": "George’s Majestic Lounge",
+    "venueLink": "https://georgesmajesticlounge.com",
+    "eventLink": "https://stubs.net/tickets/4769/vn",
+    "hide": false
+  },
+  {
+    "lineup": "Awayne",
+    "title": "",
+    "date": "2022-09-08",
+    "time": "19:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "eventLink": "https://www.facebook.com/events/681292413146768",
+    "hide": false
+  },
+  {
+    "lineup": "Lucii",
+    "title": "",
+    "date": "2022-09-08",
+    "time": "20:30",
+    "venueName": "George’s Majestic Lounge",
+    "venueLink": "https://georgesmajesticlounge.com",
+    "eventLink": "https://stubs.net/tickets/4721/vn",
+    "hide": false
+  },
+  {
+    "lineup": "JR Neal Piano Man",
+    "title": "",
+    "date": "2022-09-09",
+    "time": "19:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "eventLink": "https://www.facebook.com/events/5094102667321525",
+    "hide": false
+  },
+  {
+    "lineup": "Michael Bewley",
+    "title": "",
+    "date": "2022-09-10",
+    "time": "19:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "eventLink": "https://www.facebook.com/events/680629269977686",
+    "hide": false
+  },
+  {
+    "lineup": "Mixtapes",
+    "title": "",
+    "date": "2022-09-10",
+    "time": "21:00",
+    "venueName": "George’s Majestic Lounge",
+    "venueLink": "https://georgesmajesticlounge.com",
+    "eventLink": "https://stubs.net/tickets/4730/vn",
+    "hide": false
+  },
+  {
+    "lineup": "Flatfoot 56, City Grey",
+    "title": "",
+    "date": "2022-09-11",
+    "time": "20:00",
+    "venueName": "George’s Majestic Lounge",
+    "venueLink": "https://georgesmajesticlounge.com",
+    "eventLink": "https://stubs.net/tickets/4768/vn",
+    "hide": false
+  },
+  {
+    "lineup": "Giovannie and the Hired Guns, Huser Brothers",
+    "title": "",
+    "date": "2022-09-12",
+    "time": "20:30",
+    "venueName": "George’s Majestic Lounge",
+    "venueLink": "https://georgesmajesticlounge.com",
+    "eventLink": "https://stubs.net/tickets/4720/vn",
     "hide": false
   }
 ];

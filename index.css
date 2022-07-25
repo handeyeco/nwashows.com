@@ -26,7 +26,8 @@ header {
   background: linear-gradient(rgb(247, 248, 250), rgba(247, 248, 250, 0));
 }
 
-.submit-a-show {
+.submit-a-show,
+.submit-a-show:hover {
   display: block;
   background: rgb(20, 191, 150);
   color: rgb(247, 248, 250);
