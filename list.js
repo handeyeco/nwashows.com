@@ -1,15 +1,5 @@
 const __the__list__ = [
   {
-    "lineup": "Dale Stokes",
-    "title": "",
-    "date": "2022-07-25",
-    "time": "18:00",
-    "venueName": "JJ's Springdale",
-    "venueLink": "https://jjsgrill.com/jjsspringdale/",
-    "eventLink": "https://www.facebook.com/events/3325397737704053",
-    "hide": false
-  },
-  {
     "lineup": "Jeremiah Griffin",
     "title": "Six Twelve Open Mic Night",
     "date": "2022-07-26",
@@ -790,6 +780,16 @@ const __the__list__ = [
     "hide": false
   },
   {
+    "lineup": "Bellwether Sirens, Olympics",
+    "title": "",
+    "date": "2022-09-09",
+    "time": "19:00",
+    "venueName": "Bike Rack Brewing",
+    "venueLink": "https://bikerackbrewing.com/",
+    "eventLink": "https://www.facebook.com/events/1621000668252561",
+    "hide": false
+  },
+  {
     "lineup": "Michael Bewley",
     "title": "",
     "date": "2022-09-10",
@@ -828,5 +828,15 @@ const __the__list__ = [
     "venueLink": "https://georgesmajesticlounge.com",
     "eventLink": "https://stubs.net/tickets/4720/vn",
     "hide": false
+  },
+  {
+    "lineup": "The Mountain Goats",
+    "title": "",
+    "eventLink": "https://www.jjslive.com/event/the-mountain-goats-september-13/",
+    "date": "2022-09-13",
+    "time": "18:00",
+    "venueName": "JJ's Live",
+    "venueLink": "https://www.jjslive.com",
+    "hidden": false
   }
 ];
