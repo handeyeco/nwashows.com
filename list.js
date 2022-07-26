@@ -36,8 +36,18 @@ const __the__list__ = [
     "time": "20:30",
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4628/vn",
+    "eventLink": "https://stubs.net/event/4628/vn",
     "hide": false
+  },
+  {
+    "lineup": "Josh Hoyer & Soul Colossal, The Sons of Brasil, Grady Nichols, Austin Farnam Trio ",
+    "title": "Jazz & Blues Block Party",
+    "eventLink": "https://stubs.net/event/4423/vn",
+    "date": "2022-07-29",
+    "time": "17:45",
+    "venueName": "Railyard Live",
+    "venueLink": "https://railyardlive.com/",
+    "hidden": false
   },
   {
     "lineup": "Chubby Carrier",
@@ -46,7 +56,7 @@ const __the__list__ = [
     "time": "18:00",
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4356/vn",
+    "eventLink": "https://stubs.net/event/4356/vn",
     "hide": false
   },
   {
@@ -86,8 +96,18 @@ const __the__list__ = [
     "time": "21:00",
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4719/vn",
+    "eventLink": "https://stubs.net/event/4719/vn",
     "hide": false
+  },
+  {
+    "lineup": "Chubby Carrier, Branjae, Akeem Kemp, Clark Gibson Quartet, 1 Oz Jig ",
+    "title": "Railyard Live Jazz & Blues Block Party",
+    "eventLink": "https://stubs.net/event/4424/vn",
+    "date": "2022-07-30",
+    "time": "16:00",
+    "venueName": "Railyard Live",
+    "venueLink": "https://railyardlive.com/",
+    "hidden": false
   },
   {
     "lineup": "Vintage Pistol, Wells, Bootleg Royale",
@@ -136,7 +156,7 @@ const __the__list__ = [
     "time": "20:30",
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4522/vn",
+    "eventLink": "https://stubs.net/event/4522/vn",
     "hide": false
   },
   {
@@ -206,8 +226,18 @@ const __the__list__ = [
     "time": "20:30",
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4568/vn",
+    "eventLink": "https://stubs.net/event/4568/vn",
     "hide": false
+  },
+  {
+    "lineup": "Latin Summer Block Party",
+    "title": "",
+    "eventLink": "https://stubs.net/event/4693/vn",
+    "date": "2022-08-04",
+    "time": "20:30",
+    "venueName": "Railyard Live",
+    "venueLink": "https://railyardlive.com/",
+    "hidden": true
   },
   {
     "lineup": "Ultra Suede & The Hardtops",
@@ -216,7 +246,7 @@ const __the__list__ = [
     "time": "18:00",
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4562/vn",
+    "eventLink": "https://stubs.net/event/4562/vn",
     "hide": false
   },
   {
@@ -240,13 +270,33 @@ const __the__list__ = [
     "hide": false
   },
   {
+    "lineup": "The Mixtapes",
+    "title": "",
+    "eventLink": "https://stubs.net/event/4425/vn",
+    "date": "2022-08-05",
+    "time": "20:00",
+    "venueName": "Railyard Live",
+    "venueLink": "https://railyardlive.com/",
+    "hidden": false
+  },
+  {
+    "lineup": "Railyard Live Table One-Month FastPass - August 2022",
+    "title": "",
+    "eventLink": "https://stubs.net/event/4457/vn",
+    "date": "2022-08-05",
+    "time": "20:00",
+    "venueName": "Railyard Live",
+    "venueLink": "https://railyardlive.com/",
+    "hidden": true
+  },
+  {
     "lineup": "Willi Carlisle",
     "title": "",
     "date": "2022-08-05",
     "time": "21:00",
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4560/vn",
+    "eventLink": "https://stubs.net/event/4560/vn",
     "hide": false
   },
   {
@@ -280,13 +330,23 @@ const __the__list__ = [
     "hide": false
   },
   {
+    "lineup": "Interstellar Overdrive",
+    "title": "A Tribute to Pink Floyd",
+    "eventLink": "https://stubs.net/event/4426/vn",
+    "date": "2022-08-06",
+    "time": "20:00",
+    "venueName": "Railyard Live",
+    "venueLink": "https://railyardlive.com/",
+    "hidden": false
+  },
+  {
     "lineup": "The Red Lens, Kin & Company, Miles End Beach, Mildenhall",
     "title": "",
     "date": "2022-08-06",
     "time": "20:30",
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4712/vn",
+    "eventLink": "https://stubs.net/event/4712/vn",
     "hide": false
   },
   {
@@ -376,7 +436,7 @@ const __the__list__ = [
     "time": "20:30",
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4731/vn",
+    "eventLink": "https://stubs.net/event/4731/vn",
     "hide": false
   },
   {
@@ -386,8 +446,18 @@ const __the__list__ = [
     "time": "18:00",
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4592/vn",
+    "eventLink": "https://stubs.net/event/4592/vn",
     "hide": false
+  },
+  {
+    "lineup": "Grateful Talking Dead Heads, Dirty Strings ",
+    "title": "Grateful Dead Night ",
+    "eventLink": "https://stubs.net/event/4427/vn",
+    "date": "2022-08-12",
+    "time": "19:00",
+    "venueName": "Railyard Live",
+    "venueLink": "https://railyardlive.com/",
+    "hidden": false
   },
   {
     "lineup": "Senses Divide, DisasterMath, Agentz Of Khaos",
@@ -406,7 +476,7 @@ const __the__list__ = [
     "time": "21:00",
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4535/vn",
+    "eventLink": "https://stubs.net/event/4535/vn",
     "hide": false
   },
   {
@@ -418,6 +488,16 @@ const __the__list__ = [
     "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
     "eventLink": "https://www.facebook.com/events/659263958414272",
     "hide": false
+  },
+  {
+    "lineup": "Opal Agafia, One Way Traffic ",
+    "title": "",
+    "eventLink": "https://stubs.net/event/4428/vn",
+    "date": "2022-08-13",
+    "time": "19:00",
+    "venueName": "Railyard Live",
+    "venueLink": "https://railyardlive.com/",
+    "hidden": false
   },
   {
     "lineup": "Ley Lines, Green Acres",
@@ -436,7 +516,7 @@ const __the__list__ = [
     "time": "20:30",
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4630/vn",
+    "eventLink": "https://stubs.net/event/4630/vn",
     "hide": false
   },
   {
@@ -486,7 +566,7 @@ const __the__list__ = [
     "time": "20:00",
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4658/vn",
+    "eventLink": "https://stubs.net/event/4658/vn",
     "hide": false
   },
   {
@@ -496,7 +576,7 @@ const __the__list__ = [
     "time": "18:00",
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4593/vn",
+    "eventLink": "https://stubs.net/event/4593/vn",
     "hide": false
   },
   {
@@ -520,13 +600,23 @@ const __the__list__ = [
     "hide": false
   },
   {
+    "lineup": "Her Set Her Sound Presents",
+    "title": "",
+    "eventLink": "https://stubs.net/event/4429/vn",
+    "date": "2022-08-19",
+    "time": "20:00",
+    "venueName": "Railyard Live",
+    "venueLink": "https://railyardlive.com/",
+    "hidden": true
+  },
+  {
     "lineup": "Ozark Riviera",
     "title": "",
     "date": "2022-08-19",
     "time": "21:30",
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4623/vn",
+    "eventLink": "https://stubs.net/event/4623/vn",
     "hide": false
   },
   {
@@ -548,6 +638,16 @@ const __the__list__ = [
     "venueLink": "https://www.facebook.com/nomadstrailside/",
     "eventLink": "https://www.facebook.com/events/733567961065265",
     "hide": false
+  },
+  {
+    "lineup": "Rochelle Bradshaw & Hypnotion",
+    "title": "",
+    "eventLink": "https://stubs.net/event/4430/vn",
+    "date": "2022-08-20",
+    "time": "20:00",
+    "venueName": "Railyard Live",
+    "venueLink": "https://railyardlive.com/",
+    "hidden": false
   },
   {
     "lineup": "Jeremiah Griffin",
@@ -586,7 +686,7 @@ const __the__list__ = [
     "time": "20:30",
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4574/vn",
+    "eventLink": "https://stubs.net/event/4574/vn",
     "hide": false
   },
   {
@@ -596,7 +696,7 @@ const __the__list__ = [
     "time": "18:00",
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4725/vn",
+    "eventLink": "https://stubs.net/event/4725/vn",
     "hide": false
   },
   {
@@ -620,13 +720,23 @@ const __the__list__ = [
     "hide": false
   },
   {
+    "lineup": "The Nace Brothers",
+    "title": "",
+    "eventLink": "https://stubs.net/event/4432/vn",
+    "date": "2022-08-26",
+    "time": "20:00",
+    "venueName": "Railyard Live",
+    "venueLink": "https://railyardlive.com/",
+    "hidden": false
+  },
+  {
     "lineup": "Maggie Rose, Leyton Robinson",
     "title": "",
     "date": "2022-08-26",
     "time": "21:30",
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4675/vn",
+    "eventLink": "https://stubs.net/event/4675/vn",
     "hide": false
   },
   {
@@ -636,7 +746,7 @@ const __the__list__ = [
     "time": "21:00",
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4674/vn",
+    "eventLink": "https://stubs.net/event/4674/vn",
     "hide": false
   },
   {
@@ -666,7 +776,7 @@ const __the__list__ = [
     "time": "18:00",
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4629/vn",
+    "eventLink": "https://stubs.net/event/4629/vn",
     "hide": false
   },
   {
@@ -696,7 +806,7 @@ const __the__list__ = [
     "time": "21:00",
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4722/vn",
+    "eventLink": "https://stubs.net/event/4722/vn",
     "hide": false
   },
   {
@@ -726,7 +836,7 @@ const __the__list__ = [
     "time": "20:30",
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4711/vn",
+    "eventLink": "https://stubs.net/event/4711/vn",
     "hide": false
   },
   {
@@ -746,7 +856,7 @@ const __the__list__ = [
     "time": "20:00",
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4769/vn",
+    "eventLink": "https://stubs.net/event/4769/vn",
     "hide": false
   },
   {
@@ -766,7 +876,7 @@ const __the__list__ = [
     "time": "20:30",
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4721/vn",
+    "eventLink": "https://stubs.net/event/4721/vn",
     "hide": false
   },
   {
@@ -806,7 +916,7 @@ const __the__list__ = [
     "time": "21:00",
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4730/vn",
+    "eventLink": "https://stubs.net/event/4730/vn",
     "hide": false
   },
   {
@@ -816,7 +926,7 @@ const __the__list__ = [
     "time": "20:00",
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4768/vn",
+    "eventLink": "https://stubs.net/event/4768/vn",
     "hide": false
   },
   {
@@ -826,7 +936,7 @@ const __the__list__ = [
     "time": "20:30",
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/tickets/4720/vn",
+    "eventLink": "https://stubs.net/event/4720/vn",
     "hide": false
   },
   {
