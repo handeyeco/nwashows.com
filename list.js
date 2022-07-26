@@ -47,7 +47,7 @@ const __the__list__ = [
     "time": "17:45",
     "venueName": "Railyard Live",
     "venueLink": "https://railyardlive.com/",
-    "hidden": false
+    "hide": false
   },
   {
     "lineup": "Chubby Carrier",
@@ -107,7 +107,7 @@ const __the__list__ = [
     "time": "16:00",
     "venueName": "Railyard Live",
     "venueLink": "https://railyardlive.com/",
-    "hidden": false
+    "hide": false
   },
   {
     "lineup": "Vintage Pistol, Wells, Bootleg Royale",
@@ -230,16 +230,6 @@ const __the__list__ = [
     "hide": false
   },
   {
-    "lineup": "Latin Summer Block Party",
-    "title": "",
-    "eventLink": "https://stubs.net/event/4693/vn",
-    "date": "2022-08-04",
-    "time": "20:30",
-    "venueName": "Railyard Live",
-    "venueLink": "https://railyardlive.com/",
-    "hidden": true
-  },
-  {
     "lineup": "Ultra Suede & The Hardtops",
     "title": "",
     "date": "2022-08-05",
@@ -277,17 +267,7 @@ const __the__list__ = [
     "time": "20:00",
     "venueName": "Railyard Live",
     "venueLink": "https://railyardlive.com/",
-    "hidden": false
-  },
-  {
-    "lineup": "Railyard Live Table One-Month FastPass - August 2022",
-    "title": "",
-    "eventLink": "https://stubs.net/event/4457/vn",
-    "date": "2022-08-05",
-    "time": "20:00",
-    "venueName": "Railyard Live",
-    "venueLink": "https://railyardlive.com/",
-    "hidden": true
+    "hide": false
   },
   {
     "lineup": "Willi Carlisle",
@@ -337,7 +317,7 @@ const __the__list__ = [
     "time": "20:00",
     "venueName": "Railyard Live",
     "venueLink": "https://railyardlive.com/",
-    "hidden": false
+    "hide": false
   },
   {
     "lineup": "The Red Lens, Kin & Company, Miles End Beach, Mildenhall",
@@ -457,7 +437,7 @@ const __the__list__ = [
     "time": "19:00",
     "venueName": "Railyard Live",
     "venueLink": "https://railyardlive.com/",
-    "hidden": false
+    "hide": false
   },
   {
     "lineup": "Senses Divide, DisasterMath, Agentz Of Khaos",
@@ -497,7 +477,7 @@ const __the__list__ = [
     "time": "19:00",
     "venueName": "Railyard Live",
     "venueLink": "https://railyardlive.com/",
-    "hidden": false
+    "hide": false
   },
   {
     "lineup": "Ley Lines, Green Acres",
@@ -600,16 +580,6 @@ const __the__list__ = [
     "hide": false
   },
   {
-    "lineup": "Her Set Her Sound Presents",
-    "title": "",
-    "eventLink": "https://stubs.net/event/4429/vn",
-    "date": "2022-08-19",
-    "time": "20:00",
-    "venueName": "Railyard Live",
-    "venueLink": "https://railyardlive.com/",
-    "hidden": true
-  },
-  {
     "lineup": "Ozark Riviera",
     "title": "",
     "date": "2022-08-19",
@@ -647,7 +617,7 @@ const __the__list__ = [
     "time": "20:00",
     "venueName": "Railyard Live",
     "venueLink": "https://railyardlive.com/",
-    "hidden": false
+    "hide": false
   },
   {
     "lineup": "Jeremiah Griffin",
@@ -727,7 +697,7 @@ const __the__list__ = [
     "time": "20:00",
     "venueName": "Railyard Live",
     "venueLink": "https://railyardlive.com/",
-    "hidden": false
+    "hide": false
   },
   {
     "lineup": "Maggie Rose, Leyton Robinson",
@@ -947,6 +917,6 @@ const __the__list__ = [
     "time": "18:00",
     "venueName": "JJ's Live",
     "venueLink": "https://www.jjslive.com",
-    "hidden": false
+    "hide": false
   }
 ];
