@@ -88,6 +88,17 @@ const __the__list__ = [
     "uuid": "5f258446-9324-417b-a937-39d821b6dbcc"
   },
   {
+    "lineup": "Modeling",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/545846663709918",
+    "date": "2022-07-29",
+    "time": "20:00",
+    "venueName": "Tree House",
+    "venueLink": "https://www.blackapplehardcider.com/tree-house",
+    "hide": false,
+    "uuid": "d2e13391-76a4-42c5-ab1b-3f8610d63464"
+  },
+  {
     "lineup": "The Cole Birmingham Band",
     "title": "",
     "eventLink": "https://www.facebook.com/events/456954626245997",
@@ -176,6 +187,17 @@ const __the__list__ = [
     "uuid": "bc606f6b-d8ab-49fd-9bac-0ccd41bd072c"
   },
   {
+    "lineup": "Neon Flights",
+    "title": "Black Apple's 7th Birthday Bash",
+    "eventLink": "https://www.facebook.com/events/2403528169794482",
+    "date": "2022-07-31",
+    "time": "12:00",
+    "venueName": "Black Apple",
+    "venueLink": "https://www.blackapplehardcider.com/springdale-taproom",
+    "hide": false,
+    "uuid": "52931e90-51fc-4ef4-b637-adeb2d5cb9f5"
+  },
+  {
     "lineup": "Rachel B",
     "title": "",
     "date": "2022-07-31",
@@ -218,6 +240,28 @@ const __the__list__ = [
     "eventLink": "https://waltonartscenter.org/AMP/upcoming-concerts/big-time-rush/",
     "hide": false,
     "uuid": "b4fd423e-dab5-46de-9587-085d024fa67f"
+  },
+  {
+    "lineup": "Ben Harris",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/781283069886142",
+    "date": "2022-08-03",
+    "time": "17:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "hide": false,
+    "uuid": "4fec13d9-7e30-45df-b4ac-83b81b95eb81"
+  },
+  {
+    "lineup": "Feats of Strength, Jasper Logan",
+    "title": "First Thursday",
+    "eventLink": "https://www.experiencefayetteville.com/experience/first-thursday",
+    "date": "2022-08-04",
+    "time": "17:30",
+    "venueName": "Fayetteville Square",
+    "venueLink": "",
+    "hide": false,
+    "uuid": "e625c6a9-5470-4f6d-9f36-b1939c92f3c6"
   },
   {
     "lineup": "Dierks Bentley, Ashley McBryde, Travis Denning, DJ Aydamn",
@@ -330,6 +374,17 @@ const __the__list__ = [
     "uuid": "7d5d773b-6ba2-4ecc-a4af-43a853a82d82"
   },
   {
+    "lineup": "Foggy Bobcat, The Cole Birmingham Band, Joshua Hoover Music",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/413577880726504",
+    "date": "2022-08-06",
+    "time": "19:30",
+    "venueName": "Nomads Trailside",
+    "venueLink": "https://www.facebook.com/nomadstrailside/",
+    "hide": false,
+    "uuid": "7620a8ac-8009-4781-8fa3-e8af3d7080c2"
+  },
+  {
     "lineup": "Peter Rexford",
     "title": "",
     "date": "2022-08-06",
@@ -361,6 +416,28 @@ const __the__list__ = [
     "eventLink": "https://stubs.net/event/4712/vn",
     "hide": false,
     "uuid": "7f316cdc-94af-444a-bf59-c3872e7905e5"
+  },
+  {
+    "lineup": "Ashtyn Barbaree",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/1333354677070919",
+    "date": "2022-08-07",
+    "time": "17:00",
+    "venueName": "Tree House",
+    "venueLink": "https://www.blackapplehardcider.com/tree-house",
+    "hide": false,
+    "uuid": "b4ec967d-6c80-49e4-9113-8ad729d0459b"
+  },
+  {
+    "lineup": "Frailstate, Sugartooth, Take//Rest",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/414174137416333",
+    "date": "2022-08-07",
+    "time": "19:30",
+    "venueName": "Nomads Trailside",
+    "venueLink": "https://www.facebook.com/nomadstrailside/",
+    "hide": false,
+    "uuid": "235c250c-7a18-49e3-a0f6-3ee02179326a"
   },
   {
     "lineup": "The Flipoff Pirates",
@@ -572,6 +649,17 @@ const __the__list__ = [
     "uuid": "8be3a7dc-72c8-4166-ac9d-6ba2beb6c493"
   },
   {
+    "lineup": "Ben Harris",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/597251831796865",
+    "date": "2022-08-17",
+    "time": "17:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "hide": false,
+    "uuid": "312f8d9c-4eaa-4a2e-9f53-1e6ecdb51c06"
+  },
+  {
     "lineup": "Melody Pond",
     "title": "",
     "date": "2022-08-18",
@@ -691,6 +779,17 @@ const __the__list__ = [
     "eventLink": "https://www.facebook.com/events/2075580209266489",
     "hide": false,
     "uuid": "a94b5307-0c5e-4404-a31c-5535722bc1f8"
+  },
+  {
+    "lineup": "Ben Harris",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/770303677499929",
+    "date": "2022-08-24",
+    "time": "17:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "hide": false,
+    "uuid": "b0100fda-0342-4471-b82c-77a6b6a35279"
   },
   {
     "lineup": "James \"Daddy\" Miller",
@@ -836,6 +935,17 @@ const __the__list__ = [
     "uuid": "5a6efb0f-b80d-4afb-9821-1210045dca18"
   },
   {
+    "lineup": "DJ Dribblz, Amos Cochran, Baang",
+    "title": "First Thursday",
+    "eventLink": "https://www.experiencefayetteville.com/experience/first-thursday",
+    "date": "2022-09-01",
+    "time": "17:30",
+    "venueName": "Fayetteville Square",
+    "venueLink": "",
+    "hide": false,
+    "uuid": "85623cc4-fa39-47ac-8d47-5ab8ea9d08a6"
+  },
+  {
     "lineup": "Gone Country",
     "title": "",
     "date": "2022-09-02",
@@ -900,6 +1010,17 @@ const __the__list__ = [
     "eventLink": "https://www.facebook.com/events/263184529286293",
     "hide": false,
     "uuid": "1d0a77fe-eb57-4992-834f-ece58818400b"
+  },
+  {
+    "lineup": "Randall Shreve, DJ Rev",
+    "title": "Moulin Rouge! The Party ",
+    "eventLink": "https://www.facebook.com/events/359089179643441",
+    "date": "2022-09-03",
+    "time": "19:00",
+    "venueName": "Tree House",
+    "venueLink": "https://www.blackapplehardcider.com/tree-house",
+    "hide": false,
+    "uuid": "12cabd4c-7451-4e3b-b33d-b8f062f63285"
   },
   {
     "lineup": "Peter Rexford",
@@ -1043,6 +1164,17 @@ const __the__list__ = [
     "venueLink": "https://www.jjslive.com",
     "hide": false,
     "uuid": "781ec378-c6a4-487d-97d4-35b81187e91b"
+  },
+  {
+    "lineup": "Amato Music, Rachel Ammons, Modeling",
+    "title": "First Thursday",
+    "eventLink": "https://www.experiencefayetteville.com/experience/first-thursday",
+    "date": "2022-10-06",
+    "time": "17:30",
+    "venueName": "Fayetteville Square",
+    "venueLink": "",
+    "hide": false,
+    "uuid": "b0dd3328-f8eb-4071-a8ac-07acfd485ed8"
   },
   {
     "lineup": "Chasing Grey",
