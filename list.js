@@ -506,13 +506,13 @@ const __the__list__ = [
     "uuid": "3caa52db-de0f-41cd-a1f6-25f45f23ee98"
   },
   {
-    "lineup": "Jesica Page & Lucas Parker Band, Three Blind Monks",
+    "lineup": "Jessica Page & Lucas Parker Band, Three Blind Monks",
     "title": "",
+    "eventLink": "https://stubs.net/event/4731/vn",
     "date": "2022-08-11",
     "time": "20:30",
     "venueName": "George’s Majestic Lounge",
     "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/event/4731/vn",
     "hide": false,
     "uuid": "2156caa3-e83e-41ca-9092-e98078253f79"
   },
