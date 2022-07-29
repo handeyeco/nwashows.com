@@ -1,27 +1,5 @@
 const __the__list__ = [
   {
-    "lineup": "Ben Harris",
-    "title": "",
-    "date": "2022-07-27",
-    "time": "17:00",
-    "venueName": "Six Twelve",
-    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "eventLink": "https://www.facebook.com/events/610295503291528",
-    "hide": false,
-    "uuid": "ae0fe265-697f-4902-a979-63b607da6bf1"
-  },
-  {
-    "lineup": "Jason Boland & the Stragglers",
-    "title": "",
-    "date": "2022-07-28",
-    "time": "20:30",
-    "venueName": "George’s Majestic Lounge",
-    "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/event/4628/vn",
-    "hide": false,
-    "uuid": "524c2058-09ba-4185-b3f0-5fc193b6c332"
-  },
-  {
     "lineup": "Brick Fields",
     "title": "",
     "eventLink": "https://www.facebook.com/events/1412716295898423/",
@@ -474,12 +452,12 @@ const __the__list__ = [
   },
   {
     "lineup": "Jeremiah Griffin",
-    "title": "Six Twelve Open Mic Night",
+    "title": "Open Mic Night",
+    "eventLink": "https://www.facebook.com/events/1604556693269958",
     "date": "2022-08-09",
     "time": "19:00",
     "venueName": "Six Twelve",
     "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "eventLink": "https://www.facebook.com/events/1604556693269958",
     "hide": false,
     "uuid": "39d3ccc6-6a25-4faf-87d7-7e3310236cd0"
   },
@@ -771,12 +749,12 @@ const __the__list__ = [
   },
   {
     "lineup": "Jeremiah Griffin",
-    "title": "Six Twelve Open Mic Night",
+    "title": "Open Mic Night",
+    "eventLink": "https://www.facebook.com/events/2075580209266489",
     "date": "2022-08-23",
     "time": "19:00",
     "venueName": "Six Twelve",
     "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "eventLink": "https://www.facebook.com/events/2075580209266489",
     "hide": false,
     "uuid": "a94b5307-0c5e-4404-a31c-5535722bc1f8"
   },
@@ -1089,6 +1067,17 @@ const __the__list__ = [
     "uuid": "a37d8f7a-3912-43cb-90c7-923b34b676b1"
   },
   {
+    "lineup": "Oreo Blue",
+    "title": "",
+    "eventLink": "https://stubs.net/event/4783/vn",
+    "date": "2022-09-09",
+    "time": "18:00",
+    "venueName": "George’s Majestic Lounge",
+    "venueLink": "https://georgesmajesticlounge.com",
+    "hide": false,
+    "uuid": "aca4fa9a-55fb-4748-83cc-3be71bc865cb"
+  },
+  {
     "lineup": "JR Neal Piano Man",
     "title": "",
     "date": "2022-09-09",
@@ -1111,6 +1100,17 @@ const __the__list__ = [
     "uuid": "3091e6bb-64e2-4182-8b65-1eea22bc6790"
   },
   {
+    "lineup": "Simply Seger",
+    "title": "A Tribute to Bob Seger",
+    "eventLink": "https://stubs.net/event/4433/vn",
+    "date": "2022-09-09",
+    "time": "20:00",
+    "venueName": "Railyard Live",
+    "venueLink": "https://railyardlive.com/",
+    "hide": false,
+    "uuid": "6cce67e9-0d1e-4589-9d79-8727e7d562a5"
+  },
+  {
     "lineup": "Michael Bewley",
     "title": "",
     "date": "2022-09-10",
@@ -1120,6 +1120,17 @@ const __the__list__ = [
     "eventLink": "https://www.facebook.com/events/680629269977686",
     "hide": false,
     "uuid": "71413916-591d-45bb-bec2-a40c2e38e6f1"
+  },
+  {
+    "lineup": "Panic Stricken",
+    "title": "A Tribute to Widespread Panic",
+    "eventLink": "https://stubs.net/event/4435/vn",
+    "date": "2022-09-10",
+    "time": "20:00",
+    "venueName": "Railyard Live",
+    "venueLink": "https://railyardlive.com/",
+    "hide": false,
+    "uuid": "cc48ffc3-1419-4894-b0a8-2bbaa5bb887f"
   },
   {
     "lineup": "Mixtapes",
@@ -1164,6 +1175,292 @@ const __the__list__ = [
     "venueLink": "https://www.jjslive.com",
     "hide": false,
     "uuid": "781ec378-c6a4-487d-97d4-35b81187e91b"
+  },
+  {
+    "lineup": "Jeremiah Griffin",
+    "title": "Open Mic Night",
+    "eventLink": "https://www.facebook.com/events/328937695747692",
+    "date": "2022-09-13",
+    "time": "19:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "hide": false,
+    "uuid": "ade9a1b9-15d7-4fb7-9de2-56c5f13e31fd"
+  },
+  {
+    "lineup": "Magic City Hippies, Okey Dokey",
+    "title": "",
+    "eventLink": "https://stubs.net/event/4621/vn",
+    "date": "2022-09-13",
+    "time": "20:30",
+    "venueName": "George’s Majestic Lounge",
+    "venueLink": "https://georgesmajesticlounge.com",
+    "hide": false,
+    "uuid": "72fd4c69-aa43-450c-ae44-68df957a2e08"
+  },
+  {
+    "lineup": "Olympics, Modeling, Mildenhall, Bootleg Royale",
+    "title": "",
+    "eventLink": "https://stubs.net/event/4734/vn",
+    "date": "2022-09-15",
+    "time": "20:00",
+    "venueName": "George’s Majestic Lounge",
+    "venueLink": "https://georgesmajesticlounge.com",
+    "hide": false,
+    "uuid": "b493c2e0-dbfc-4765-abd2-b2bd0fcd9362"
+  },
+  {
+    "lineup": "Jon Langston",
+    "title": "",
+    "eventLink": "https://www.jjslive.com/event/jon-langston-september-16/",
+    "date": "2022-09-16",
+    "time": "18:00",
+    "venueName": "JJ's Live",
+    "venueLink": "https://www.jjslive.com",
+    "hide": false,
+    "uuid": "24d6aff3-4278-4662-9135-53dafb787e7a"
+  },
+  {
+    "lineup": "Project1268, Simeon Basil, The Zach Howell Band, The Traveling Squirrels ",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/744228156611001",
+    "date": "2022-09-16",
+    "time": "20:00",
+    "venueName": "Nomads Trailside",
+    "venueLink": "https://www.facebook.com/nomadstrailside/",
+    "hide": false,
+    "uuid": "f7fb9c7c-8a21-4cb1-b673-679f697e30dc"
+  },
+  {
+    "lineup": "The Burney Sisters, Leyton Robinson",
+    "title": "",
+    "eventLink": "https://stubs.net/event/4437/vn",
+    "date": "2022-09-16",
+    "time": "20:00",
+    "venueName": "Railyard Live",
+    "venueLink": "https://railyardlive.com/",
+    "hide": false,
+    "uuid": "4a68065f-a612-4c36-9c4e-8f74136d1a8f"
+  },
+  {
+    "lineup": "The Cole Birmingham Band",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/215731560641008",
+    "date": "2022-09-16",
+    "time": "20:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "hide": false,
+    "uuid": "97690cc0-734f-4321-a24a-9591674cc1e5"
+  },
+  {
+    "lineup": "Gypsy",
+    "title": "",
+    "eventLink": "https://stubs.net/event/4631/vn",
+    "date": "2022-09-16",
+    "time": "21:00",
+    "venueName": "George’s Majestic Lounge",
+    "venueLink": "https://georgesmajesticlounge.com",
+    "hide": false,
+    "uuid": "262acb2b-9bc6-4af9-b15e-308dcab1e1fa"
+  },
+  {
+    "lineup": "Ashtyn Barbaree & the Barbarians",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/3193551387567058",
+    "date": "2022-09-17",
+    "time": "19:00",
+    "venueName": "Bike Rack Brewing",
+    "venueLink": "https://bikerackbrewing.com/",
+    "hide": false,
+    "uuid": "accddb44-7d80-4636-9f21-625bd6ba90f8"
+  },
+  {
+    "lineup": "Matteson Gregory",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/1601903863490442",
+    "date": "2022-09-17",
+    "time": "19:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "hide": false,
+    "uuid": "1e23d8a2-8861-48df-a6ff-b41064790fd0"
+  },
+  {
+    "lineup": "Vintage Pistol",
+    "title": "",
+    "eventLink": "https://stubs.net/event/4438/vn",
+    "date": "2022-09-17",
+    "time": "20:00",
+    "venueName": "Railyard Live",
+    "venueLink": "https://railyardlive.com/",
+    "hide": false,
+    "uuid": "4b11f69e-b3f4-44df-9437-57d53d5b7c55"
+  },
+  {
+    "lineup": "Steve 'n' Seagulls, The Burney Sisters",
+    "title": "",
+    "eventLink": "https://stubs.net/event/4680/vn",
+    "date": "2022-09-17",
+    "time": "21:00",
+    "venueName": "George’s Majestic Lounge",
+    "venueLink": "https://georgesmajesticlounge.com",
+    "hide": false,
+    "uuid": "44377c76-917f-4515-87eb-060b5db08877"
+  },
+  {
+    "lineup": "Buddy Shute and the Motivators",
+    "title": "",
+    "eventLink": "https://stubs.net/event/4751/vn",
+    "date": "2022-09-18",
+    "time": "18:00",
+    "venueName": "George’s Majestic Lounge",
+    "venueLink": "https://georgesmajesticlounge.com",
+    "hide": false,
+    "uuid": "8b2615c9-de49-4f57-86e3-b8c8b8dbbc97"
+  },
+  {
+    "lineup": "Bowling for Soup",
+    "title": "",
+    "eventLink": "https://www.jjslive.com/event/bowling-for-soup-sept-18/",
+    "date": "2022-09-18",
+    "time": "18:00",
+    "venueName": "JJ's Live",
+    "venueLink": "https://www.jjslive.com",
+    "hide": false,
+    "uuid": "b824129f-7055-49c2-a7cd-674f11532527"
+  },
+  {
+    "lineup": "Goo Goo Dolls, Blue October",
+    "title": "",
+    "eventLink": "https://waltonartscenter.org/AMP/upcoming-concerts/goo-goo-dolls/",
+    "date": "2022-09-18",
+    "time": "19:30",
+    "venueName": "Walmart AMP",
+    "venueLink": "https://waltonartscenter.org/AMP/",
+    "hide": false,
+    "uuid": "b0227279-da25-41d3-873a-47978781e0ea"
+  },
+  {
+    "lineup": "Alice in Chains, Breaking Benjamin, Bush, Plush",
+    "title": "",
+    "eventLink": "https://waltonartscenter.org/AMP/upcoming-concerts/alice-in-chains-breaking-benjamin/",
+    "date": "2022-09-20",
+    "time": "17:30",
+    "venueName": "Walmart AMP",
+    "venueLink": "https://waltonartscenter.org/AMP/",
+    "hide": false,
+    "uuid": "c1f97e13-eca2-4618-b646-a8a2dd851283"
+  },
+  {
+    "lineup": "Chicken Wire Empire",
+    "title": "",
+    "eventLink": "https://stubs.net/event/4738/vn",
+    "date": "2022-09-22",
+    "time": "20:00",
+    "venueName": "George’s Majestic Lounge",
+    "venueLink": "https://georgesmajesticlounge.com",
+    "hide": false,
+    "uuid": "3db45119-a964-4b54-a0d3-01dd763d2442"
+  },
+  {
+    "lineup": "Leah & the Mojo Doctors",
+    "title": "",
+    "eventLink": "https://stubs.net/event/4739/vn",
+    "date": "2022-09-23",
+    "time": "18:00",
+    "venueName": "George’s Majestic Lounge",
+    "venueLink": "https://georgesmajesticlounge.com",
+    "hide": false,
+    "uuid": "a1e6e4a6-16fe-4364-a83e-3b9988b6e90c"
+  },
+  {
+    "lineup": "Dawson Hollow",
+    "title": "",
+    "eventLink": "https://stubs.net/event/4439/vn",
+    "date": "2022-09-23",
+    "time": "20:00",
+    "venueName": "Railyard Live",
+    "venueLink": "https://railyardlive.com/",
+    "hide": false,
+    "uuid": "de6c9de7-98d0-4aca-aa39-e1220d4eb95d"
+  },
+  {
+    "lineup": "1 Oz Jig, Green Acres",
+    "title": "",
+    "eventLink": "https://stubs.net/event/4659/vn",
+    "date": "2022-09-23",
+    "time": "21:00",
+    "venueName": "George’s Majestic Lounge",
+    "venueLink": "https://georgesmajesticlounge.com",
+    "hide": false,
+    "uuid": "54911165-5397-45b6-a8b4-cfa4a85ba22c"
+  },
+  {
+    "lineup": "Jukebox Confession",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/534115381786221",
+    "date": "2022-09-24",
+    "time": "19:00",
+    "venueName": "Bike Rack Brewing",
+    "venueLink": "https://bikerackbrewing.com/",
+    "hide": false,
+    "uuid": "881bc0cc-658f-4266-a18e-0e68eb6441a1"
+  },
+  {
+    "lineup": "Trout Fishing In America",
+    "title": "",
+    "eventLink": "https://stubs.net/event/4440/vn",
+    "date": "2022-09-24",
+    "time": "20:00",
+    "venueName": "Railyard Live",
+    "venueLink": "https://railyardlive.com/",
+    "hide": false,
+    "uuid": "b7636ca2-a981-4423-b8d7-d793ed110f1e"
+  },
+  {
+    "lineup": "Jer's itty bitty BIG Jazz Band",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/573456537219308",
+    "date": "2022-09-25",
+    "time": "18:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "hide": false,
+    "uuid": "45aa8bdf-989e-4a83-80ff-5a0634fb5dd1"
+  },
+  {
+    "lineup": "Nikki Lane",
+    "title": "",
+    "eventLink": "https://stubs.net/event/4784/vn",
+    "date": "2022-09-25",
+    "time": "20:00",
+    "venueName": "George’s Majestic Lounge",
+    "venueLink": "https://georgesmajesticlounge.com",
+    "hide": false,
+    "uuid": "23469db6-a1c6-43a6-bc52-1e843e6f53fe"
+  },
+  {
+    "lineup": "Open Mic Night",
+    "title": "Jeremiah Griffin",
+    "eventLink": "https://www.facebook.com/events/437852567770486",
+    "date": "2022-09-27",
+    "time": "19:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "hide": false,
+    "uuid": "80678dd8-9f2a-4757-b01c-482436f454dd"
+  },
+  {
+    "lineup": "The Cate Brothers",
+    "title": "",
+    "eventLink": "https://stubs.net/event/4482/vn",
+    "date": "2022-09-30",
+    "time": "18:00",
+    "venueName": "George’s Majestic Lounge",
+    "venueLink": "https://georgesmajesticlounge.com",
+    "hide": false,
+    "uuid": "60106fcf-a96f-426b-ab84-f7bba95b7072"
   },
   {
     "lineup": "Amato Music, Rachel Ammons, Modeling",
