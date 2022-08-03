@@ -1,225 +1,5 @@
 const __the__list__ = [
   {
-    "lineup": "Brick Fields",
-    "title": "",
-    "eventLink": "https://www.facebook.com/events/1412716295898423/",
-    "date": "2022-07-29",
-    "time": "17:00",
-    "venueName": "American Legion",
-    "venueLink": "http://www.legionpost27.org/",
-    "hide": false,
-    "uuid": "2ed04efd-a0ec-4f54-815b-fee5fca670ee"
-  },
-  {
-    "lineup": "Josh Hoyer & Soul Colossal, The Sons of Brasil, Grady Nichols, Austin Farnam Trio ",
-    "title": "Jazz & Blues Block Party",
-    "eventLink": "https://stubs.net/event/4423/vn",
-    "date": "2022-07-29",
-    "time": "17:45",
-    "venueName": "Railyard Live",
-    "venueLink": "https://railyardlive.com/",
-    "hide": false,
-    "uuid": "177fc14d-8cdf-48f5-abc6-51a5ceaedf48"
-  },
-  {
-    "lineup": "Chubby Carrier",
-    "title": "",
-    "date": "2022-07-29",
-    "time": "18:00",
-    "venueName": "George’s Majestic Lounge",
-    "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/event/4356/vn",
-    "hide": false,
-    "uuid": "5f597cae-05ec-459a-89c3-d30ba4ef0bb5"
-  },
-  {
-    "lineup": "Chris Stapleton, Elle King, Madeline Edwards",
-    "title": "",
-    "date": "2022-07-29",
-    "time": "19:00",
-    "venueName": "Walmart AMP",
-    "venueLink": "https://waltonartscenter.org/AMP/",
-    "eventLink": "https://waltonartscenter.org/AMP/upcoming-concerts/chris-stapleton/",
-    "hide": false,
-    "uuid": "026d606c-17c9-41de-b342-81613e698e21"
-  },
-  {
-    "lineup": "JR Neal Piano Man",
-    "title": "",
-    "date": "2022-07-29",
-    "time": "19:00",
-    "venueName": "Six Twelve",
-    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "eventLink": "https://www.facebook.com/events/712501926469229",
-    "hide": false,
-    "uuid": "97a0db75-5ba0-4539-90c9-73ac91c487e2"
-  },
-  {
-    "lineup": "TroubleZ H.C.T, Yxng Strxnge, Kolt Train, Crow, Reno Mix & KDL, Se7en, Physical Emotion",
-    "title": "",
-    "date": "2022-07-29",
-    "time": "20:00",
-    "venueName": "Nomads Trailside",
-    "venueLink": "https://www.facebook.com/nomadstrailside/",
-    "eventLink": "https://www.facebook.com/events/998395577534386",
-    "hide": false,
-    "uuid": "5f258446-9324-417b-a937-39d821b6dbcc"
-  },
-  {
-    "lineup": "Modeling",
-    "title": "",
-    "eventLink": "https://www.facebook.com/events/545846663709918",
-    "date": "2022-07-29",
-    "time": "20:00",
-    "venueName": "Tree House",
-    "venueLink": "https://www.blackapplehardcider.com/tree-house",
-    "hide": false,
-    "uuid": "d2e13391-76a4-42c5-ab1b-3f8610d63464"
-  },
-  {
-    "lineup": "The Cole Birmingham Band",
-    "title": "",
-    "eventLink": "https://www.facebook.com/events/456954626245997",
-    "date": "2022-07-29",
-    "time": "20:30",
-    "venueName": "JJ's Grill Fayetteville",
-    "venueLink": "https://jjsgrill.com/jjsfayetteville/",
-    "hide": false,
-    "uuid": "b492c6a9-fcda-4c49-aa77-2c9359e0af82"
-  },
-  {
-    "lineup": "Zebbler Encanti Experience",
-    "title": "",
-    "date": "2022-07-29",
-    "time": "21:00",
-    "venueName": "George’s Majestic Lounge",
-    "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/event/4719/vn",
-    "hide": false,
-    "uuid": "9e1f8478-3943-47d3-a457-e94385c01633"
-  },
-  {
-    "lineup": "Chubby Carrier, Branjae, Akeem Kemp, Clark Gibson Quartet, 1 Oz Jig ",
-    "title": "Jazz & Blues Block Party",
-    "eventLink": "https://stubs.net/event/4424/vn",
-    "date": "2022-07-30",
-    "time": "16:00",
-    "venueName": "Railyard Live",
-    "venueLink": "https://railyardlive.com/",
-    "hide": false,
-    "uuid": "46d81015-a22b-4bb3-b96f-bb48a6bd29f7"
-  },
-  {
-    "lineup": "Vintage Pistol, Wells, Bootleg Royale",
-    "title": "",
-    "eventLink": "https://www.prairiestreetlive.com/events/vintage-pistol-w-wells-bootleg-royale",
-    "date": "2022-07-30",
-    "time": "17:30",
-    "venue": "Prairie Street Live (509 W Prairie St)",
-    "venueName": "Prairie Street Live",
-    "venueLink": "https://www.prairiestreetlive.com/",
-    "uuid": "78f8b89d-e6bb-401d-895a-851c5e98448e"
-  },
-  {
-    "lineup": "Mustache The Band",
-    "title": "",
-    "date": "2022-07-30",
-    "time": "18:00",
-    "venueName": "JJ's Live",
-    "venueLink": "https://www.jjslive.com",
-    "eventLink": "https://www.jjslive.com/event/mustache-the-band-july-30/",
-    "hide": false,
-    "uuid": "e8b67159-082e-4c6a-9639-f440877e3df0"
-  },
-  {
-    "lineup": "Neon Flight",
-    "title": "",
-    "date": "2022-07-30",
-    "time": "19:00",
-    "venueName": "Bike Rack Brewing",
-    "venueLink": "https://bikerackbrewing.com/",
-    "eventLink": "https://www.facebook.com/events/1720216698319447",
-    "hide": false,
-    "uuid": "d33d3461-3a1b-4dbe-b990-1bc618d642b7"
-  },
-  {
-    "lineup": "Benadriil, On Holiday, TV Preacher",
-    "title": "",
-    "date": "2022-07-30",
-    "time": "20:00",
-    "venueName": "Nomads Trailside",
-    "venueLink": "https://www.facebook.com/nomadstrailside/",
-    "eventLink": "https://www.facebook.com/events/757432821952669",
-    "hide": false,
-    "uuid": "aaa498e4-f538-4c08-ad41-73f0f8300eb2"
-  },
-  {
-    "lineup": "Friends of the Phamily, Isayah's Allstars",
-    "title": "17th Annual Jerry Garcia Birthday Bash",
-    "date": "2022-07-30",
-    "time": "20:30",
-    "venueName": "George’s Majestic Lounge",
-    "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/event/4522/vn",
-    "hide": false,
-    "uuid": "bc606f6b-d8ab-49fd-9bac-0ccd41bd072c"
-  },
-  {
-    "lineup": "Neon Flights",
-    "title": "Black Apple's 7th Birthday Bash",
-    "eventLink": "https://www.facebook.com/events/2403528169794482",
-    "date": "2022-07-31",
-    "time": "12:00",
-    "venueName": "Black Apple",
-    "venueLink": "https://www.blackapplehardcider.com/springdale-taproom",
-    "hide": false,
-    "uuid": "52931e90-51fc-4ef4-b637-adeb2d5cb9f5"
-  },
-  {
-    "lineup": "Rachel B",
-    "title": "",
-    "date": "2022-07-31",
-    "time": "19:00",
-    "venueName": "Six Twelve",
-    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "eventLink": "https://www.facebook.com/events/453713789925161",
-    "hide": false,
-    "uuid": "8a679802-9507-4c5a-8643-057495a0e489"
-  },
-  {
-    "lineup": "Lil Heavn, Bquyet, Nyxkiss, $adboi Crxw",
-    "title": "",
-    "date": "2022-07-31",
-    "time": "20:00",
-    "venueName": "Nomads Trailside",
-    "venueLink": "https://www.facebook.com/nomadstrailside/",
-    "eventLink": "https://www.facebook.com/events/796827744685450",
-    "hide": false,
-    "uuid": "419145b9-0034-4e1f-a0a2-dd36ce87f527"
-  },
-  {
-    "lineup": "Peter Rexford",
-    "title": "",
-    "date": "2022-08-02",
-    "time": "19:00",
-    "venueName": "Six Twelve",
-    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "eventLink": "https://www.facebook.com/events/4722331881200631",
-    "hide": false,
-    "uuid": "330533a8-ebe4-4c04-92d6-d3c057f0ef2a"
-  },
-  {
-    "lineup": "Big Time Rush, Spenser Sutherland",
-    "title": "",
-    "date": "2022-08-02",
-    "time": "20:00",
-    "venueName": "Walmart AMP",
-    "venueLink": "https://waltonartscenter.org/AMP/",
-    "eventLink": "https://waltonartscenter.org/AMP/upcoming-concerts/big-time-rush/",
-    "hide": false,
-    "uuid": "b4fd423e-dab5-46de-9587-085d024fa67f"
-  },
-  {
     "lineup": "Ben Harris",
     "title": "",
     "eventLink": "https://www.facebook.com/events/781283069886142",
@@ -273,6 +53,17 @@ const __the__list__ = [
     "eventLink": "https://stubs.net/event/4568/vn",
     "hide": false,
     "uuid": "c158bc46-8b0b-4a99-9cdd-6ed1c4428114"
+  },
+  {
+    "lineup": "Earth Radio, Mindless Souls, The Big Sad",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/579633680323937",
+    "date": "2022-08-04",
+    "time": "22:00",
+    "venueName": "Nomads Trailside",
+    "venueLink": "https://www.facebook.com/nomadstrailside/",
+    "hide": false,
+    "uuid": "03c42906-586e-43cf-bc1a-c89974350d7e"
   },
   {
     "lineup": "Ultra Suede & The Hardtops",
@@ -383,6 +174,17 @@ const __the__list__ = [
     "venueLink": "https://railyardlive.com/",
     "hide": false,
     "uuid": "762d1c4f-a7ce-4095-b395-0ca388135c54"
+  },
+  {
+    "lineup": "Circle of Thirds",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/556428199304097",
+    "date": "2022-08-06",
+    "time": "20:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "hide": false,
+    "uuid": "bfd73cb8-2438-44b3-9f73-3ce8b452863b"
   },
   {
     "lineup": "The Red Lens, Kin & Company, Miles End Beach, Mildenhall",
@@ -878,6 +680,17 @@ const __the__list__ = [
     "eventLink": "https://stubs.net/event/4674/vn",
     "hide": false,
     "uuid": "73a99d11-bfa8-43e5-8b3c-22313189ad5a"
+  },
+  {
+    "lineup": "Michael Rowan",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/1097394061177802",
+    "date": "2022-08-28",
+    "time": "19:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "hide": false,
+    "uuid": "65031d6c-7fa4-45e9-9c34-092ccdda8bec"
   },
   {
     "lineup": "Circle of Thirds",
