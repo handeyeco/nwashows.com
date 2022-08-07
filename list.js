@@ -1,203 +1,5 @@
 const __the__list__ = [
   {
-    "lineup": "Ben Harris",
-    "title": "",
-    "eventLink": "https://www.facebook.com/events/781283069886142",
-    "date": "2022-08-03",
-    "time": "17:00",
-    "venueName": "Six Twelve",
-    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "hide": false,
-    "uuid": "4fec13d9-7e30-45df-b4ac-83b81b95eb81"
-  },
-  {
-    "lineup": "Feats of Strength, Jasper Logan",
-    "title": "First Thursday",
-    "eventLink": "https://www.experiencefayetteville.com/experience/first-thursday",
-    "date": "2022-08-04",
-    "time": "17:30",
-    "venueName": "Fayetteville Square",
-    "venueLink": "",
-    "hide": false,
-    "uuid": "e625c6a9-5470-4f6d-9f36-b1939c92f3c6"
-  },
-  {
-    "lineup": "Dierks Bentley, Ashley McBryde, Travis Denning, DJ Aydamn",
-    "title": "",
-    "date": "2022-08-04",
-    "time": "19:00",
-    "venueName": "Walmart AMP",
-    "venueLink": "https://waltonartscenter.org/AMP/",
-    "eventLink": "https://waltonartscenter.org/AMP/upcoming-concerts/dierks-bentley/",
-    "hide": false,
-    "uuid": "ca847d41-bc12-4fde-bd68-0a187421a2b5"
-  },
-  {
-    "lineup": "Awayne",
-    "title": "",
-    "date": "2022-08-04",
-    "time": "19:00",
-    "venueName": "Six Twelve",
-    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "eventLink": "https://www.facebook.com/events/313605964315215",
-    "hide": false,
-    "uuid": "f25bc8f4-d159-4f20-832a-2392fa46c98d"
-  },
-  {
-    "lineup": "Jed Harrelson, Monk is King, Bootleg Royale ",
-    "title": "",
-    "date": "2022-08-04",
-    "time": "20:30",
-    "venueName": "George’s Majestic Lounge",
-    "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/event/4568/vn",
-    "hide": false,
-    "uuid": "c158bc46-8b0b-4a99-9cdd-6ed1c4428114"
-  },
-  {
-    "lineup": "Earth Radio, Mindless Souls, The Big Sad",
-    "title": "",
-    "eventLink": "https://www.facebook.com/events/579633680323937",
-    "date": "2022-08-04",
-    "time": "22:00",
-    "venueName": "Nomads Trailside",
-    "venueLink": "https://www.facebook.com/nomadstrailside/",
-    "hide": false,
-    "uuid": "03c42906-586e-43cf-bc1a-c89974350d7e"
-  },
-  {
-    "lineup": "Ultra Suede & The Hardtops",
-    "title": "",
-    "date": "2022-08-05",
-    "time": "18:00",
-    "venueName": "George’s Majestic Lounge",
-    "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/event/4562/vn",
-    "hide": false,
-    "uuid": "7d432ef4-774f-409a-95ba-982f0797cd61"
-  },
-  {
-    "lineup": "Chase Matthew",
-    "title": "",
-    "date": "2022-08-05",
-    "time": "18:00",
-    "venueName": "JJ's Live",
-    "venueLink": "https://www.jjslive.com",
-    "eventLink": "https://www.jjslive.com/event/chase-matthew-august-5/",
-    "hide": false,
-    "uuid": "09e9bb8d-f7bd-4d10-9eb0-da4d1fef18d5"
-  },
-  {
-    "lineup": "Like Before, Fight Dream, Protohive",
-    "title": "",
-    "date": "2022-08-05",
-    "time": "20:00",
-    "venueName": "Nomads Trailside",
-    "venueLink": "https://www.facebook.com/nomadstrailside/",
-    "eventLink": "https://www.facebook.com/events/426805865704734",
-    "hide": false,
-    "uuid": "2b7b53c2-7ae3-41d6-b51e-1ae7c2d7ff2a"
-  },
-  {
-    "lineup": "The Mixtapes",
-    "title": "",
-    "eventLink": "https://stubs.net/event/4425/vn",
-    "date": "2022-08-05",
-    "time": "20:00",
-    "venueName": "Railyard Live",
-    "venueLink": "https://railyardlive.com/",
-    "hide": false,
-    "uuid": "448b3c2c-da5d-4375-ba4c-71b769f985ab"
-  },
-  {
-    "lineup": "Willi Carlisle",
-    "title": "",
-    "date": "2022-08-05",
-    "time": "21:00",
-    "venueName": "George’s Majestic Lounge",
-    "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/event/4560/vn",
-    "hide": false,
-    "uuid": "c4b46cc2-8c70-45a7-9277-5565aff1d185"
-  },
-  {
-    "lineup": "Magnolia Brown",
-    "title": "",
-    "date": "2022-08-05",
-    "time": "21:00",
-    "venueName": "Kingfish",
-    "venueLink": "https://www.kingfishbar.com/",
-    "eventLink": "https://www.facebook.com/events/2265492543607474",
-    "hide": false,
-    "uuid": "0335bc9f-b7f2-49c6-8406-8480121ddf81"
-  },
-  {
-    "lineup": "Farmers & the Market Trio",
-    "title": "",
-    "date": "2022-08-06",
-    "time": "19:00",
-    "venueName": "Bike Rack Brewing",
-    "venueLink": "https://bikerackbrewing.com/",
-    "eventLink": "https://www.facebook.com/events/502996911513307",
-    "hide": false,
-    "uuid": "7d5d773b-6ba2-4ecc-a4af-43a853a82d82"
-  },
-  {
-    "lineup": "Foggy Bobcat, The Cole Birmingham Band, Joshua Hoover Music",
-    "title": "",
-    "eventLink": "https://www.facebook.com/events/413577880726504",
-    "date": "2022-08-06",
-    "time": "19:30",
-    "venueName": "Nomads Trailside",
-    "venueLink": "https://www.facebook.com/nomadstrailside/",
-    "hide": false,
-    "uuid": "7620a8ac-8009-4781-8fa3-e8af3d7080c2"
-  },
-  {
-    "lineup": "Peter Rexford",
-    "title": "",
-    "date": "2022-08-06",
-    "time": "20:00",
-    "venueName": "Six Twelve",
-    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "eventLink": "https://www.facebook.com/events/1165575664277409",
-    "hide": false,
-    "uuid": "3d1d6b5e-9a52-4a49-8916-9139b72005c8"
-  },
-  {
-    "lineup": "Interstellar Overdrive",
-    "title": "A Tribute to Pink Floyd",
-    "eventLink": "https://stubs.net/event/4426/vn",
-    "date": "2022-08-06",
-    "time": "20:00",
-    "venueName": "Railyard Live",
-    "venueLink": "https://railyardlive.com/",
-    "hide": false,
-    "uuid": "762d1c4f-a7ce-4095-b395-0ca388135c54"
-  },
-  {
-    "lineup": "Circle of Thirds",
-    "title": "",
-    "eventLink": "https://www.facebook.com/events/556428199304097",
-    "date": "2022-08-06",
-    "time": "20:00",
-    "venueName": "Six Twelve",
-    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "hide": false,
-    "uuid": "bfd73cb8-2438-44b3-9f73-3ce8b452863b"
-  },
-  {
-    "lineup": "The Red Lens, Kin & Company, Miles End Beach, Mildenhall",
-    "title": "",
-    "date": "2022-08-06",
-    "time": "20:30",
-    "venueName": "George’s Majestic Lounge",
-    "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/event/4712/vn",
-    "hide": false,
-    "uuid": "7f316cdc-94af-444a-bf59-c3872e7905e5"
-  },
-  {
     "lineup": "Ashtyn Barbaree",
     "title": "",
     "eventLink": "https://www.facebook.com/events/1333354677070919",
@@ -286,17 +88,6 @@ const __the__list__ = [
     "uuid": "3612329f-44e1-4b9a-b337-9829c099149d"
   },
   {
-    "lineup": "Michael Franti, Spearhead",
-    "title": "",
-    "date": "2022-08-11",
-    "time": "18:00",
-    "venueName": "JJ's Live",
-    "venueLink": "https://www.jjslive.com",
-    "eventLink": "https://www.jjslive.com/event/michael-franti-spearhead-august-11/",
-    "hide": false,
-    "uuid": "5fe6c0ae-fb2c-43b4-8140-fc0185a24e19"
-  },
-  {
     "lineup": "Awayne",
     "title": "",
     "date": "2022-08-11",
@@ -339,6 +130,17 @@ const __the__list__ = [
     "venueLink": "https://railyardlive.com/",
     "hide": false,
     "uuid": "b8a840fc-58c5-4ae6-ba59-0cad4bedff83"
+  },
+  {
+    "lineup": "Michael Rowan",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/1074596760115676",
+    "date": "2022-08-12",
+    "time": "19:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "hide": false,
+    "uuid": "55c4ba0e-5725-4cf7-828a-76cafad1254b"
   },
   {
     "lineup": "Senses Divide, DisasterMath, Agentz Of Khaos",
@@ -572,6 +374,17 @@ const __the__list__ = [
     "uuid": "b0100fda-0342-4471-b82c-77a6b6a35279"
   },
   {
+    "lineup": "Snake Father, Tel Anorath, Lost Cause",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/1249507575787930",
+    "date": "2022-08-25",
+    "time": "17:00",
+    "venueName": "Nomads Trailside",
+    "venueLink": "https://www.facebook.com/nomadstrailside/",
+    "hide": false,
+    "uuid": "4d319af4-6b60-4ef9-9288-32321f999597"
+  },
+  {
     "lineup": "James \"Daddy\" Miller",
     "title": "",
     "date": "2022-08-25",
@@ -660,6 +473,17 @@ const __the__list__ = [
     "uuid": "16d3e090-4f33-4494-ba61-cb412fde42f7"
   },
   {
+    "lineup": "Foggy Bobcat",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/1427781554382067",
+    "date": "2022-08-27",
+    "time": "19:00",
+    "venueName": "Bike Rack Brewing",
+    "venueLink": "https://bikerackbrewing.com/",
+    "hide": false,
+    "uuid": "d35ecb50-d787-4ee6-a699-2dafe2947741"
+  },
+  {
     "lineup": "Benjamin Del Shreve Band",
     "title": "",
     "eventLink": "https://stubs.net/event/4431/vn",
@@ -669,6 +493,17 @@ const __the__list__ = [
     "venueLink": "https://railyardlive.com/",
     "hide": false,
     "uuid": "2253b8b6-1fdb-489a-951a-5d7ae4aaef19"
+  },
+  {
+    "lineup": "ATM, Nerdy Verde",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/707059507059491",
+    "date": "2022-08-27",
+    "time": "20:00",
+    "venueName": "Nomads Trailside",
+    "venueLink": "https://www.facebook.com/nomadstrailside/",
+    "hide": false,
+    "uuid": "b6cf9e6f-86e3-4630-a974-ae5683bec70a"
   },
   {
     "lineup": "Arlo McKinley, Logan Halstead",
@@ -735,6 +570,17 @@ const __the__list__ = [
     "venueLink": "",
     "hide": false,
     "uuid": "85623cc4-fa39-47ac-8d47-5ab8ea9d08a6"
+  },
+  {
+    "lineup": "Mitch McKelvin",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/1713257859044517",
+    "date": "2022-09-01",
+    "time": "19:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "hide": false,
+    "uuid": "543a160a-2356-4f2f-afd7-bcae2b126928"
   },
   {
     "lineup": "Gone Country",
@@ -1032,6 +878,17 @@ const __the__list__ = [
     "venueLink": "https://www.jjslive.com",
     "hide": false,
     "uuid": "24d6aff3-4278-4662-9135-53dafb787e7a"
+  },
+  {
+    "lineup": "Full House",
+    "title": "",
+    "eventLink": "https://stubs.net/event/4792/vn",
+    "date": "2022-09-16",
+    "time": "18:00",
+    "venueName": "George’s Majestic Lounge",
+    "venueLink": "https://georgesmajesticlounge.com",
+    "hide": false,
+    "uuid": "d41b2b80-6fca-4bbf-9a76-c47648e384ad"
   },
   {
     "lineup": "Project1268, Simeon Basil, The Zach Howell Band, The Traveling Squirrels ",
