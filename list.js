@@ -1,38 +1,5 @@
 const __the__list__ = [
   {
-    "lineup": "Ashtyn Barbaree",
-    "title": "",
-    "eventLink": "https://www.facebook.com/events/1333354677070919",
-    "date": "2022-08-07",
-    "time": "17:00",
-    "venueName": "Tree House",
-    "venueLink": "https://www.blackapplehardcider.com/tree-house",
-    "hide": false,
-    "uuid": "b4ec967d-6c80-49e4-9113-8ad729d0459b"
-  },
-  {
-    "lineup": "Frailstate, Sugartooth, Take//Rest",
-    "title": "",
-    "eventLink": "https://www.facebook.com/events/414174137416333",
-    "date": "2022-08-07",
-    "time": "19:30",
-    "venueName": "Nomads Trailside",
-    "venueLink": "https://www.facebook.com/nomadstrailside/",
-    "hide": false,
-    "uuid": "235c250c-7a18-49e3-a0f6-3ee02179326a"
-  },
-  {
-    "lineup": "The Flipoff Pirates",
-    "title": "",
-    "date": "2022-08-07",
-    "time": "20:00",
-    "venueName": "Kingfish",
-    "venueLink": "https://www.kingfishbar.com/",
-    "eventLink": "https://www.facebook.com/events/724995082126920",
-    "hide": false,
-    "uuid": "68894797-c7b9-4e43-9461-859cfdabc1d1"
-  },
-  {
     "lineup": "Wiz Khalifa, Logic, 24kGoldn, DRAMA, Fedd the God, C Dot Castro",
     "title": "",
     "date": "2022-08-08",
@@ -319,6 +286,17 @@ const __the__list__ = [
     "uuid": "6077ac6f-e81c-42b6-b05a-333cc5a709f2"
   },
   {
+    "lineup": "Ted Hammig and the Campaign, Bunnyy, Yukon, Sheepfold, Sighed Project, Shiny Object",
+    "title": "Hey June",
+    "eventLink": "https://www.instagram.com/p/CgacL0GPXo2/",
+    "date": "2022-08-20",
+    "time": "17:30",
+    "venueName": "Likewise",
+    "venueLink": "https://likewise.community/",
+    "hide": false,
+    "uuid": "39d68d9f-e183-4a1c-87c3-7e6886fd6506"
+  },
+  {
     "lineup": "Matteson Gregory",
     "title": "",
     "date": "2022-08-20",
@@ -603,6 +581,17 @@ const __the__list__ = [
     "eventLink": "https://www.jjslive.com/event/black-label-society-september-2/",
     "hide": false,
     "uuid": "8f4feb20-f620-45c2-ba19-5a422202b15a"
+  },
+  {
+    "lineup": "No/Más, VORE, Pantheon, Angel Flesh, lost cause, Mausoleum",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/542239291027041",
+    "date": "2022-09-02",
+    "time": "19:00",
+    "venueName": "Arkansas Event Center",
+    "venueLink": "https://arkansaseventcenter.com/",
+    "hide": false,
+    "uuid": "fe4dcc15-4f11-4d77-a79a-2f78abc950d0"
   },
   {
     "lineup": "Circle of Thirds, The Cole Birmingham Band, Moldilocks",
