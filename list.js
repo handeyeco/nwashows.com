@@ -1,60 +1,5 @@
 const __the__list__ = [
   {
-    "lineup": "Wiz Khalifa, Logic, 24kGoldn, DRAMA, Fedd the God, C Dot Castro",
-    "title": "",
-    "date": "2022-08-08",
-    "time": "18:50",
-    "venueName": "Walmart AMP",
-    "venueLink": "https://waltonartscenter.org/AMP/",
-    "eventLink": "https://waltonartscenter.org/AMP/upcoming-concerts/wiz-khalifa-logic/",
-    "hide": false,
-    "uuid": "24e8d2d2-218c-466a-903a-bb97cd8fa51e"
-  },
-  {
-    "lineup": "OneRepublic, NEEDTOBREATHE",
-    "title": "",
-    "date": "2022-08-09",
-    "time": "19:00",
-    "venueName": "Walmart AMP",
-    "venueLink": "https://waltonartscenter.org/AMP/",
-    "eventLink": "https://waltonartscenter.org/AMP/upcoming-concerts/onerepublic/",
-    "hide": false,
-    "uuid": "516a71eb-c6b4-49d1-a203-8311d859848a"
-  },
-  {
-    "lineup": "Jeremiah Griffin",
-    "title": "Open Mic Night",
-    "eventLink": "https://www.facebook.com/events/1604556693269958",
-    "date": "2022-08-09",
-    "time": "19:00",
-    "venueName": "Six Twelve",
-    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "hide": false,
-    "uuid": "39d3ccc6-6a25-4faf-87d7-7e3310236cd0"
-  },
-  {
-    "lineup": "Halestorm, The Pretty Reckless, The Warning, Lilith Czar",
-    "title": "",
-    "date": "2022-08-10",
-    "time": "18:00",
-    "venueName": "Walmart AMP",
-    "venueLink": "https://waltonartscenter.org/AMP/",
-    "eventLink": "https://waltonartscenter.org/AMP/upcoming-concerts/halestorm/",
-    "hide": false,
-    "uuid": "19ec5712-ea81-47b4-b47d-5cb61fdb1727"
-  },
-  {
-    "lineup": "Mountain Gypsies",
-    "title": "",
-    "date": "2022-08-10",
-    "time": "19:00",
-    "venueName": "Six Twelve",
-    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "eventLink": "https://www.facebook.com/events/1037079440200505",
-    "hide": false,
-    "uuid": "3612329f-44e1-4b9a-b337-9829c099149d"
-  },
-  {
     "lineup": "Awayne",
     "title": "",
     "date": "2022-08-11",
@@ -132,6 +77,17 @@ const __the__list__ = [
     "uuid": "bbe73d41-1b3e-4414-87ef-a40df392547b"
   },
   {
+    "lineup": "Gardensnakes, heather",
+    "title": "",
+    "eventLink": "http://smokeandbarrel.com/#2022-08-12Gardensnak",
+    "date": "2022-08-12",
+    "time": "21:00",
+    "venueName": "Smoke & Barrel",
+    "venueLink": "http://smokeandbarrel.com/",
+    "hide": false,
+    "uuid": "a8513b98-587c-4ed4-9c67-7173b92e7ed4"
+  },
+  {
     "lineup": "Mike Bewley",
     "title": "",
     "date": "2022-08-13",
@@ -163,6 +119,17 @@ const __the__list__ = [
     "eventLink": "https://www.facebook.com/events/1787445111593148",
     "hide": false,
     "uuid": "91537ca7-753c-4438-950c-5411f338a9b1"
+  },
+  {
+    "lineup": "Temptress, Moonsong, The Salesman",
+    "title": "",
+    "eventLink": "http://smokeandbarrel.com/#2022-08-13Temptress%2C",
+    "date": "2022-08-13",
+    "time": "21:00",
+    "venueName": "Smoke & Barrel",
+    "venueLink": "http://smokeandbarrel.com/",
+    "hide": false,
+    "uuid": "057db8ab-a1ed-4e4b-a2b8-fbfd966c30e1"
   },
   {
     "lineup": "Black Joe Lewis & the Honeybears",
@@ -330,6 +297,17 @@ const __the__list__ = [
     "uuid": "0f5cb5bb-5962-4126-99ec-84cc725f4182"
   },
   {
+    "lineup": "Dummy, Olympics",
+    "title": "",
+    "eventLink": "http://smokeandbarrel.com/#2022-08-21On%20The%20Map",
+    "date": "2022-08-21",
+    "time": "21:00",
+    "venueName": "Smoke & Barrel",
+    "venueLink": "http://smokeandbarrel.com/",
+    "hide": false,
+    "uuid": "9409bf79-8f5b-4b3d-b379-6de6525ac5bf"
+  },
+  {
     "lineup": "Jeremiah Griffin",
     "title": "Open Mic Night",
     "eventLink": "https://www.facebook.com/events/2075580209266489",
@@ -394,6 +372,17 @@ const __the__list__ = [
     "eventLink": "https://stubs.net/event/4574/vn",
     "hide": false,
     "uuid": "9734cf95-1908-49be-becf-54a0ecd539e5"
+  },
+  {
+    "lineup": "DeFrance",
+    "title": "",
+    "eventLink": "http://smokeandbarrel.com/#2022-08-25DeFrance",
+    "date": "2022-08-25",
+    "time": "21:00",
+    "venueName": "Smoke & Barrel",
+    "venueLink": "http://smokeandbarrel.com/",
+    "hide": false,
+    "uuid": "0360b762-9ec2-466e-aa1c-92d1eec8b467"
   },
   {
     "lineup": "Paul Benjaman & Friends",
@@ -484,6 +473,17 @@ const __the__list__ = [
     "uuid": "b6cf9e6f-86e3-4630-a974-ae5683bec70a"
   },
   {
+    "lineup": "3Pines, Chooch & Friends",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/3265233620424675",
+    "date": "2022-08-27",
+    "time": "20:00",
+    "venueName": "Kingfish",
+    "venueLink": "https://www.kingfishbar.com/",
+    "hide": false,
+    "uuid": "a488ef57-6cfb-4e76-9b69-c1398a8435d2"
+  },
+  {
     "lineup": "Arlo McKinley, Logan Halstead",
     "title": "",
     "date": "2022-08-27",
@@ -493,6 +493,17 @@ const __the__list__ = [
     "eventLink": "https://stubs.net/event/4674/vn",
     "hide": false,
     "uuid": "73a99d11-bfa8-43e5-8b3c-22313189ad5a"
+  },
+  {
+    "lineup": "Dance Monkey Dance, 1oz Jig",
+    "title": "",
+    "eventLink": "http://smokeandbarrel.com/#2022-08-27Dance%20Monk",
+    "date": "2022-08-27",
+    "time": "21:00",
+    "venueName": "Smoke & Barrel",
+    "venueLink": "http://smokeandbarrel.com/",
+    "hide": false,
+    "uuid": "c3669244-4f60-43ed-962b-3242bac39a72"
   },
   {
     "lineup": "Michael Rowan",
@@ -660,6 +671,17 @@ const __the__list__ = [
     "uuid": "88f9ef4c-9c4b-46fc-b66c-23590ffd2411"
   },
   {
+    "lineup": "Mausoleum, Lost Cause, Held Tight, The Saleman",
+    "title": "",
+    "eventLink": "http://smokeandbarrel.com/#2022-09-03Mausoleum%2C",
+    "date": "2022-09-03",
+    "time": "21:00",
+    "venueName": "Smoke & Barrel",
+    "venueLink": "http://smokeandbarrel.com/",
+    "hide": false,
+    "uuid": "febaffe7-8e82-4ca5-9bc9-12607f2dca52"
+  },
+  {
     "lineup": "Very Special Guests",
     "title": "",
     "date": "2022-09-04",
@@ -759,6 +781,17 @@ const __the__list__ = [
     "uuid": "6cce67e9-0d1e-4589-9d79-8727e7d562a5"
   },
   {
+    "lineup": "Wyly Bigger, Abby Howard",
+    "title": "",
+    "eventLink": "http://smokeandbarrel.com/#2022-09-09Wyly%20Bigge",
+    "date": "2022-09-09",
+    "time": "21:00",
+    "venueName": "Smoke & Barrel",
+    "venueLink": "http://smokeandbarrel.com/",
+    "hide": false,
+    "uuid": "bb8a8938-9987-44f2-bfb5-941d3ad02734"
+  },
+  {
     "lineup": "Michael Bewley",
     "title": "",
     "date": "2022-09-10",
@@ -790,6 +823,17 @@ const __the__list__ = [
     "eventLink": "https://stubs.net/event/4730/vn",
     "hide": false,
     "uuid": "57a1a0bc-263d-4cf7-8950-1b8b74d37226"
+  },
+  {
+    "lineup": "Teen Mortgage, Stash Hag, Protohive, TV Preacher",
+    "title": "",
+    "eventLink": "http://smokeandbarrel.com/#2022-09-10Teen%20Mortg",
+    "date": "2022-09-10",
+    "time": "21:00",
+    "venueName": "Smoke & Barrel",
+    "venueLink": "http://smokeandbarrel.com/",
+    "hide": false,
+    "uuid": "9be76995-6268-4373-9580-fb3983df8aa9"
   },
   {
     "lineup": "Flatfoot 56, City Grey",
@@ -924,6 +968,17 @@ const __the__list__ = [
     "uuid": "262acb2b-9bc6-4af9-b15e-308dcab1e1fa"
   },
   {
+    "lineup": "DJ SYCA",
+    "title": "",
+    "eventLink": "http://smokeandbarrel.com/#2022-09-16DJ%20SYCA",
+    "date": "2022-09-16",
+    "time": "21:00",
+    "venueName": "Smoke & Barrel",
+    "venueLink": "http://smokeandbarrel.com/",
+    "hide": false,
+    "uuid": "09e8af45-0168-4ef9-8a65-7f30116efd48"
+  },
+  {
     "lineup": "Ashtyn Barbaree & the Barbarians",
     "title": "",
     "eventLink": "https://www.facebook.com/events/3193551387567058",
@@ -966,6 +1021,17 @@ const __the__list__ = [
     "venueLink": "https://georgesmajesticlounge.com",
     "hide": false,
     "uuid": "44377c76-917f-4515-87eb-060b5db08877"
+  },
+  {
+    "lineup": "King Cabbage Brass Band",
+    "title": "",
+    "eventLink": "http://smokeandbarrel.com/#2022-09-17King%20Cabba",
+    "date": "2022-09-17",
+    "time": "21:00",
+    "venueName": "Smoke & Barrel",
+    "venueLink": "http://smokeandbarrel.com/",
+    "hide": false,
+    "uuid": "ac6db8c5-12ce-4e6b-9559-7c234df09419"
   },
   {
     "lineup": "Buddy Shute and the Motivators",
@@ -1056,6 +1122,17 @@ const __the__list__ = [
     "uuid": "54911165-5397-45b6-a8b4-cfa4a85ba22c"
   },
   {
+    "lineup": "Front Porch",
+    "title": "",
+    "eventLink": "http://smokeandbarrel.com/#2022-09-23Front%20Porc",
+    "date": "2022-09-23",
+    "time": "21:00",
+    "venueName": "Smoke & Barrel",
+    "venueLink": "http://smokeandbarrel.com/",
+    "hide": false,
+    "uuid": "6e991fe6-6419-46cf-8920-fc94209fa27a"
+  },
+  {
     "lineup": "Jukebox Confession",
     "title": "",
     "eventLink": "https://www.facebook.com/events/534115381786221",
@@ -1078,6 +1155,17 @@ const __the__list__ = [
     "uuid": "b7636ca2-a981-4423-b8d7-d793ed110f1e"
   },
   {
+    "lineup": "Rachel Ammons' No Man Band",
+    "title": "",
+    "eventLink": "http://smokeandbarrel.com/#2022-09-24Rachel%20Amm",
+    "date": "2022-09-24",
+    "time": "21:00",
+    "venueName": "Smoke & Barrel",
+    "venueLink": "http://smokeandbarrel.com/",
+    "hide": false,
+    "uuid": "a9aad883-129a-4abe-896e-44d0c60971b1"
+  },
+  {
     "lineup": "Jer's itty bitty BIG Jazz Band",
     "title": "",
     "eventLink": "https://www.facebook.com/events/573456537219308",
@@ -1098,6 +1186,17 @@ const __the__list__ = [
     "venueLink": "https://georgesmajesticlounge.com",
     "hide": false,
     "uuid": "23469db6-a1c6-43a6-bc52-1e843e6f53fe"
+  },
+  {
+    "lineup": "Daniel Ramano's Outfit, Carson McHone",
+    "title": "",
+    "eventLink": "http://smokeandbarrel.com/#2022-09-25On%20The%20Map",
+    "date": "2022-09-25",
+    "time": "21:00",
+    "venueName": "Smoke & Barrel",
+    "venueLink": "http://smokeandbarrel.com/",
+    "hide": false,
+    "uuid": "703f2bee-59af-420a-8a10-6b3085253e93"
   },
   {
     "lineup": "Open Mic Night",
