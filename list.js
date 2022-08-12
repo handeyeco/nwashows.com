@@ -1,27 +1,5 @@
 const __the__list__ = [
   {
-    "lineup": "Awayne",
-    "title": "",
-    "date": "2022-08-11",
-    "time": "19:00",
-    "venueName": "Six Twelve",
-    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "eventLink": "https://www.facebook.com/events/741142917046762",
-    "hide": false,
-    "uuid": "3caa52db-de0f-41cd-a1f6-25f45f23ee98"
-  },
-  {
-    "lineup": "Jessica Page & Lucas Parker Band, Three Blind Monks",
-    "title": "",
-    "eventLink": "https://stubs.net/event/4731/vn",
-    "date": "2022-08-11",
-    "time": "20:30",
-    "venueName": "George’s Majestic Lounge",
-    "venueLink": "https://georgesmajesticlounge.com",
-    "hide": false,
-    "uuid": "2156caa3-e83e-41ca-9092-e98078253f79"
-  },
-  {
     "lineup": "Full House",
     "title": "",
     "date": "2022-08-12",
@@ -53,6 +31,17 @@ const __the__list__ = [
     "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
     "hide": false,
     "uuid": "55c4ba0e-5725-4cf7-828a-76cafad1254b"
+  },
+  {
+    "lineup": "Mudhawk",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/1071123636841941/",
+    "date": "2022-08-12",
+    "time": "19:00",
+    "venueName": "Mojo's",
+    "venueLink": "http://www.mojospintsandpies.com/",
+    "hide": false,
+    "uuid": "40039ecb-bb71-40c5-9546-df586a90a648"
   },
   {
     "lineup": "Senses Divide, DisasterMath, Agentz Of Khaos",
@@ -966,17 +955,6 @@ const __the__list__ = [
     "venueLink": "https://georgesmajesticlounge.com",
     "hide": false,
     "uuid": "262acb2b-9bc6-4af9-b15e-308dcab1e1fa"
-  },
-  {
-    "lineup": "DJ SYCA",
-    "title": "",
-    "eventLink": "http://smokeandbarrel.com/#2022-09-16DJ%20SYCA",
-    "date": "2022-09-16",
-    "time": "21:00",
-    "venueName": "Smoke & Barrel",
-    "venueLink": "http://smokeandbarrel.com/",
-    "hide": false,
-    "uuid": "09e8af45-0168-4ef9-8a65-7f30116efd48"
   },
   {
     "lineup": "Ashtyn Barbaree & the Barbarians",
