@@ -1,137 +1,5 @@
 const __the__list__ = [
   {
-    "lineup": "Full House",
-    "title": "",
-    "date": "2022-08-12",
-    "time": "18:00",
-    "venueName": "George’s Majestic Lounge",
-    "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/event/4592/vn",
-    "hide": false,
-    "uuid": "96ae2db5-7699-4d71-9c34-8c3787066015"
-  },
-  {
-    "lineup": "Grateful Talking Dead Heads, Dirty Strings ",
-    "title": "Grateful Dead Night ",
-    "eventLink": "https://stubs.net/event/4427/vn",
-    "date": "2022-08-12",
-    "time": "19:00",
-    "venueName": "Railyard Live",
-    "venueLink": "https://railyardlive.com/",
-    "hide": false,
-    "uuid": "b8a840fc-58c5-4ae6-ba59-0cad4bedff83"
-  },
-  {
-    "lineup": "Michael Rowan",
-    "title": "",
-    "eventLink": "https://www.facebook.com/events/1074596760115676",
-    "date": "2022-08-12",
-    "time": "19:00",
-    "venueName": "Six Twelve",
-    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "hide": false,
-    "uuid": "55c4ba0e-5725-4cf7-828a-76cafad1254b"
-  },
-  {
-    "lineup": "Mudhawk",
-    "title": "",
-    "eventLink": "https://www.facebook.com/events/1071123636841941/",
-    "date": "2022-08-12",
-    "time": "19:00",
-    "venueName": "Mojo's",
-    "venueLink": "http://www.mojospintsandpies.com/",
-    "hide": false,
-    "uuid": "40039ecb-bb71-40c5-9546-df586a90a648"
-  },
-  {
-    "lineup": "Senses Divide, DisasterMath, Agentz Of Khaos",
-    "title": "",
-    "date": "2022-08-12",
-    "time": "20:00",
-    "venueName": "Nomads Trailside",
-    "venueLink": "https://www.facebook.com/nomadstrailside/",
-    "eventLink": "https://www.facebook.com/events/2152721038221648",
-    "hide": false,
-    "uuid": "d4b2217a-6e20-4200-ac5c-1764c8335852"
-  },
-  {
-    "lineup": "Funk Factory",
-    "title": "",
-    "date": "2022-08-12",
-    "time": "21:00",
-    "venueName": "George’s Majestic Lounge",
-    "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/event/4535/vn",
-    "hide": false,
-    "uuid": "bbe73d41-1b3e-4414-87ef-a40df392547b"
-  },
-  {
-    "lineup": "Gardensnakes, heather",
-    "title": "",
-    "eventLink": "http://smokeandbarrel.com/#2022-08-12Gardensnak",
-    "date": "2022-08-12",
-    "time": "21:00",
-    "venueName": "Smoke & Barrel",
-    "venueLink": "http://smokeandbarrel.com/",
-    "hide": false,
-    "uuid": "a8513b98-587c-4ed4-9c67-7173b92e7ed4"
-  },
-  {
-    "lineup": "Mike Bewley",
-    "title": "",
-    "date": "2022-08-13",
-    "time": "19:00",
-    "venueName": "Six Twelve",
-    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "eventLink": "https://www.facebook.com/events/659263958414272",
-    "hide": false,
-    "uuid": "7c403db4-0e01-405d-9c31-9cdf78b64be8"
-  },
-  {
-    "lineup": "Opal Agafia, One Way Traffic ",
-    "title": "",
-    "eventLink": "https://stubs.net/event/4428/vn",
-    "date": "2022-08-13",
-    "time": "19:00",
-    "venueName": "Railyard Live",
-    "venueLink": "https://railyardlive.com/",
-    "hide": false,
-    "uuid": "63a78322-51fe-4376-b788-da452195fdc7"
-  },
-  {
-    "lineup": "Ley Lines, Green Acres",
-    "title": "",
-    "date": "2022-08-13",
-    "time": "20:00",
-    "venueName": "Kingfish",
-    "venueLink": "https://www.kingfishbar.com/",
-    "eventLink": "https://www.facebook.com/events/1787445111593148",
-    "hide": false,
-    "uuid": "91537ca7-753c-4438-950c-5411f338a9b1"
-  },
-  {
-    "lineup": "Temptress, Moonsong, The Salesman",
-    "title": "",
-    "eventLink": "http://smokeandbarrel.com/#2022-08-13Temptress%2C",
-    "date": "2022-08-13",
-    "time": "21:00",
-    "venueName": "Smoke & Barrel",
-    "venueLink": "http://smokeandbarrel.com/",
-    "hide": false,
-    "uuid": "057db8ab-a1ed-4e4b-a2b8-fbfd966c30e1"
-  },
-  {
-    "lineup": "Black Joe Lewis & the Honeybears",
-    "title": "",
-    "date": "2022-08-14",
-    "time": "20:30",
-    "venueName": "George’s Majestic Lounge",
-    "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/event/4630/vn",
-    "hide": false,
-    "uuid": "ea32fcc4-c5fc-40c5-bf2e-295df3071f74"
-  },
-  {
     "lineup": "Incubus, Sublime with Rome, The Aquadolls",
     "title": "",
     "date": "2022-08-16",
@@ -196,6 +64,17 @@ const __the__list__ = [
     "eventLink": "https://stubs.net/event/4658/vn",
     "hide": false,
     "uuid": "7982bac9-9055-4d14-bbc1-c6a99ac3f688"
+  },
+  {
+    "lineup": "JerGriffin",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/823388932156516",
+    "date": "2022-08-18",
+    "time": "20:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "hide": false,
+    "uuid": "33ffb0cc-74b8-4560-9e43-eedb5d4ef127"
   },
   {
     "lineup": "Earl & Them",
@@ -526,6 +405,17 @@ const __the__list__ = [
     "venueLink": "https://georgesmajesticlounge.com",
     "hide": false,
     "uuid": "552a7e02-1db4-4f5b-bded-03d9c5efdf10"
+  },
+  {
+    "lineup": "Nate Fredrick",
+    "title": "",
+    "eventLink": "http://smokeandbarrel.com/#2022-08-30Nate%20Fredr",
+    "date": "2022-08-30",
+    "time": "21:00",
+    "venueName": "Smoke & Barrel",
+    "venueLink": "http://smokeandbarrel.com/",
+    "hide": false,
+    "uuid": "ff9c8e8f-c021-4b43-8d33-426e88616478"
   },
   {
     "lineup": "Ben Harris",
@@ -880,6 +770,39 @@ const __the__list__ = [
     "uuid": "72fd4c69-aa43-450c-ae44-68df957a2e08"
   },
   {
+    "lineup": "Chris Arcana",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/762479165063685",
+    "date": "2022-09-14",
+    "time": "18:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "hide": false,
+    "uuid": "fcbd442e-1a8d-4087-975d-21c65180e75a"
+  },
+  {
+    "lineup": "Jason Dae West, Petey Wesley",
+    "title": "",
+    "eventLink": "http://smokeandbarrel.com/#2022-09-14Jason%20Dae%20",
+    "date": "2022-09-14",
+    "time": "21:00",
+    "venueName": "Smoke & Barrel",
+    "venueLink": "http://smokeandbarrel.com/",
+    "hide": false,
+    "uuid": "f05fa3c4-9910-424f-8902-41b3048d4d18"
+  },
+  {
+    "lineup": "JerGriffin",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/685232632934940",
+    "date": "2022-09-15",
+    "time": "19:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "hide": false,
+    "uuid": "3454269d-85c0-471d-b5c4-a4ad3c8476a8"
+  },
+  {
     "lineup": "Olympics, Modeling, Mildenhall, Bootleg Royale",
     "title": "",
     "eventLink": "https://stubs.net/event/4734/vn",
@@ -911,6 +834,17 @@ const __the__list__ = [
     "venueLink": "https://georgesmajesticlounge.com",
     "hide": false,
     "uuid": "d41b2b80-6fca-4bbf-9a76-c47648e384ad"
+  },
+  {
+    "lineup": "Amy & Dave",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/1048482762479693",
+    "date": "2022-09-16",
+    "time": "19:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "hide": false,
+    "uuid": "fb1fce7c-cf8f-44c2-aecb-6d8191c041e6"
   },
   {
     "lineup": "Project1268, Simeon Basil, The Zach Howell Band, The Traveling Squirrels ",
@@ -977,6 +911,17 @@ const __the__list__ = [
     "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
     "hide": false,
     "uuid": "1e23d8a2-8861-48df-a6ff-b41064790fd0"
+  },
+  {
+    "lineup": "Joy Bliss Bless",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/3328116007402287",
+    "date": "2022-09-17",
+    "time": "19:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "hide": false,
+    "uuid": "f973a4e5-b8ba-47c5-8d4d-4f3bbbadb355"
   },
   {
     "lineup": "Vintage Pistol",
@@ -1197,6 +1142,138 @@ const __the__list__ = [
     "venueLink": "https://georgesmajesticlounge.com",
     "hide": false,
     "uuid": "60106fcf-a96f-426b-ab84-f7bba95b7072"
+  },
+  {
+    "lineup": "Koe Wetzel, Aaron Lewis, Kolby Cooper",
+    "title": "",
+    "eventLink": "https://waltonartscenter.org/AMP/upcoming-concerts/koe-wetzel/",
+    "date": "2022-09-30",
+    "time": "19:00",
+    "venueName": "Walmart AMP",
+    "venueLink": "https://waltonartscenter.org/AMP/",
+    "hide": false,
+    "uuid": "c311344c-75e2-474e-80d4-2deaf2e35230"
+  },
+  {
+    "lineup": "La Sonora Dynamita de Carlitos Xivir",
+    "title": "",
+    "eventLink": "https://stubs.net/event/4708/vn",
+    "date": "2022-09-30",
+    "time": "20:00",
+    "venueName": "Railyard Live",
+    "venueLink": "https://railyardlive.com/",
+    "hide": false,
+    "uuid": "cec494c2-7ba2-404a-8776-546d4f8fa421"
+  },
+  {
+    "lineup": "Sean Harrison",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/479455263527502",
+    "date": "2022-09-30",
+    "time": "20:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "hide": false,
+    "uuid": "6c7e9c51-53b1-44a1-a20f-59eb9d7968b5"
+  },
+  {
+    "lineup": "Panic! @ the Tree House",
+    "title": "Bad Candy",
+    "eventLink": "https://www.facebook.com/events/614405939720707",
+    "date": "2022-09-30",
+    "time": "20:00",
+    "venueName": "Tree House",
+    "venueLink": "https://www.blackapplehardcider.com/tree-house",
+    "hide": false,
+    "uuid": "670c448c-768a-43ee-9407-43a0bff4101a"
+  },
+  {
+    "lineup": "Various Blonde, Formals, RINGS",
+    "title": "",
+    "eventLink": "http://smokeandbarrel.com/#2022-09-30Various%20Bl",
+    "date": "2022-09-30",
+    "time": "21:00",
+    "venueName": "Smoke & Barrel",
+    "venueLink": "http://smokeandbarrel.com/",
+    "hide": false,
+    "uuid": "5ebc4c23-4f61-45e5-99cf-f650e7e05a8d"
+  },
+  {
+    "lineup": "Boom Kinetic",
+    "title": "",
+    "eventLink": "https://stubs.net/event/4795/vn",
+    "date": "2022-09-30",
+    "time": "21:30",
+    "venueName": "George’s Majestic Lounge",
+    "venueLink": "https://georgesmajesticlounge.com",
+    "hide": false,
+    "uuid": "cc90bea0-3d04-4ff9-8128-0b4d052d41c7"
+  },
+  {
+    "lineup": "Peter Rexford",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/743423376969770",
+    "date": "2022-10-01",
+    "time": "20:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "hide": false,
+    "uuid": "3ac9f9c9-7839-40e4-a7ad-f76b8faa0f94"
+  },
+  {
+    "lineup": "Pat Green, Ozark Riviera",
+    "title": "",
+    "eventLink": "https://stubs.net/event/4727/vn",
+    "date": "2022-10-01",
+    "time": "21:00",
+    "venueName": "George’s Majestic Lounge",
+    "venueLink": "https://georgesmajesticlounge.com",
+    "hide": false,
+    "uuid": "2616b7a5-ddd8-41fc-b037-acbb834bdd3f"
+  },
+  {
+    "lineup": "Jenna and the Soul Shakers",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/757430322167982",
+    "date": "2022-10-02",
+    "time": "16:00",
+    "venueName": "Kingfish",
+    "venueLink": "https://www.kingfishbar.com/",
+    "hide": false,
+    "uuid": "c8c48f97-cbd2-42ad-a64a-ca7c53e85374"
+  },
+  {
+    "lineup": "Eyehategod, Savage Master, Deadbird, Mudlung",
+    "title": "",
+    "eventLink": "https://stubs.net/event/4767/vn",
+    "date": "2022-10-02",
+    "time": "19:30",
+    "venueName": "George’s Majestic Lounge",
+    "venueLink": "https://georgesmajesticlounge.com",
+    "hide": false,
+    "uuid": "55a8ff6c-cfa9-456c-890b-17476fadca5f"
+  },
+  {
+    "lineup": "Peter Rexford",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/808660850519861",
+    "date": "2022-10-04",
+    "time": "19:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "hide": false,
+    "uuid": "d8b48756-666f-42b9-a095-1db766930698"
+  },
+  {
+    "lineup": "The Chicks, Patty Griffin",
+    "title": "",
+    "eventLink": "https://waltonartscenter.org/AMP/upcoming-concerts/the-chicks/",
+    "date": "2022-10-04",
+    "time": "19:30",
+    "venueName": "Walmart AMP",
+    "venueLink": "https://waltonartscenter.org/AMP/",
+    "hide": false,
+    "uuid": "41a73813-c60c-4c77-9299-a01e17f2740b"
   },
   {
     "lineup": "Amato Music, Rachel Ammons, Modeling",
