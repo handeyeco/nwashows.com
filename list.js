@@ -209,6 +209,17 @@ const __the__list__ = [
     "uuid": "4d319af4-6b60-4ef9-9288-32321f999597"
   },
   {
+    "lineup": "The Wood Brothers, Molly Tuttle & Golden Highway, Joe Purdy",
+    "title": "Fayetteville Roots Festival",
+    "eventLink": "https://www.fayettevilleroots.org/festival-schedule",
+    "date": "2022-08-25",
+    "time": "17:00",
+    "venueName": "Fayetteville Public Library",
+    "venueLink": "",
+    "hide": false,
+    "uuid": "e2d0918b-c52e-45aa-b9fc-cd040fec2abf"
+  },
+  {
     "lineup": "James \"Daddy\" Miller",
     "title": "",
     "date": "2022-08-25",
@@ -253,6 +264,39 @@ const __the__list__ = [
     "uuid": "0360b762-9ec2-466e-aa1c-92d1eec8b467"
   },
   {
+    "lineup": "Fireside Collective",
+    "title": "Fayetteville Roots Festival",
+    "eventLink": "https://www.fayettevilleroots.org/festival-schedule",
+    "date": "2022-08-25",
+    "time": "23:30",
+    "venueName": "Roots HQ",
+    "venueLink": "",
+    "hide": false,
+    "uuid": "04a930ef-4595-482f-b6ad-01106e7efa6f"
+  },
+  {
+    "lineup": "Reggie James Gospel, Tray Weillington, Samantha Crain, Dead Horses",
+    "title": "Fayetteville Roots Festival",
+    "eventLink": "https://www.fayettevilleroots.org/festival-schedule",
+    "date": "2022-08-26",
+    "time": "11:30",
+    "venueName": "Fayetteville Public Library",
+    "venueLink": "",
+    "hide": false,
+    "uuid": "22dc7646-bc81-4b89-83d3-2d6cb95d657c"
+  },
+  {
+    "lineup": "J Wagner, Meadow Makers",
+    "title": "Fayetteville Roots Festival",
+    "eventLink": "https://www.fayettevilleroots.org/festival-schedule",
+    "date": "2022-08-26",
+    "time": "16:00",
+    "venueName": "Roots HQ",
+    "venueLink": "",
+    "hide": false,
+    "uuid": "e10a2e45-e824-405c-a13f-38ef0a07ec52"
+  },
+  {
     "lineup": "Paul Benjaman & Friends",
     "title": "Steve Pryor Tribute",
     "date": "2022-08-26",
@@ -286,6 +330,17 @@ const __the__list__ = [
     "uuid": "94a3c0ea-890d-41ba-a5e5-8f38cb688b7c"
   },
   {
+    "lineup": "Taj Mahal, Bettye LaVette, Peter Rowan Bluegrass Band",
+    "title": "Fayetteville Roots Festival",
+    "eventLink": "https://www.fayettevilleroots.org/festival-schedule",
+    "date": "2022-08-26",
+    "time": "19:00",
+    "venueName": "Fayetteville Towncenter",
+    "venueLink": "",
+    "hide": false,
+    "uuid": "ce0e37a9-50d6-491e-a3c2-6a444b7f1af0"
+  },
+  {
     "lineup": "The Nace Brothers",
     "title": "",
     "eventLink": "https://stubs.net/event/4432/vn",
@@ -295,6 +350,17 @@ const __the__list__ = [
     "venueLink": "https://railyardlive.com/",
     "hide": false,
     "uuid": "ac13ecb1-c3c2-4881-ac26-aefeef72b5a8"
+  },
+  {
+    "lineup": "Maggie Rose, Leyton Robinson",
+    "title": "Fayetteville Roots Festival",
+    "eventLink": "https://www.fayettevilleroots.org/festival-schedule",
+    "date": "2022-08-26",
+    "time": "20:30",
+    "venueName": "George’s Majestic Lounge",
+    "venueLink": "",
+    "hide": false,
+    "uuid": "6a8560a3-a2f7-4ea1-8b86-709ccf564691"
   },
   {
     "lineup": "Maggie Rose, Leyton Robinson",
@@ -308,6 +374,50 @@ const __the__list__ = [
     "uuid": "16d3e090-4f33-4494-ba61-cb412fde42f7"
   },
   {
+    "lineup": "Dylan Earl",
+    "title": "Fayetteville Roots Festival",
+    "eventLink": "https://www.fayettevilleroots.org/festival-schedule",
+    "date": "2022-08-26",
+    "time": "22:00",
+    "venueName": "Maxine's Taproom",
+    "venueLink": "",
+    "hide": false,
+    "uuid": "e8a936da-58c5-4c27-b1ec-737562f14b58"
+  },
+  {
+    "lineup": "Sad Daddy",
+    "title": "Fayetteville Roots Festival",
+    "eventLink": "https://www.fayettevilleroots.org/festival-schedule",
+    "date": "2022-08-26",
+    "time": "23:30",
+    "venueName": "Roots HQ",
+    "venueLink": "",
+    "hide": false,
+    "uuid": "91f76742-58fd-47b4-b4a9-c8f53ab5ce0b"
+  },
+  {
+    "lineup": "Rachel Ammons, Radio Free Honduras, The Honey Dewdrops, Brother Brothers",
+    "title": "Fayetteville Roots Festival",
+    "eventLink": "https://www.fayettevilleroots.org/festival-schedule",
+    "date": "2022-08-27",
+    "time": "11:30",
+    "venueName": "Fayetteville Public Library",
+    "venueLink": "",
+    "hide": false,
+    "uuid": "a85b609a-f698-4fdd-a7ce-01e06caf65f9"
+  },
+  {
+    "lineup": "Shannon Wurst, Sons of Otis Malone",
+    "title": "Fayetteville Roots Festival",
+    "eventLink": "https://www.fayettevilleroots.org/festival-schedule",
+    "date": "2022-08-27",
+    "time": "16:00",
+    "venueName": "Roots HQ",
+    "venueLink": "",
+    "hide": false,
+    "uuid": "c5336d06-c124-4206-a4d6-60a98c9a8a33"
+  },
+  {
     "lineup": "Foggy Bobcat",
     "title": "",
     "eventLink": "https://www.facebook.com/events/1427781554382067",
@@ -317,6 +427,17 @@ const __the__list__ = [
     "venueLink": "https://bikerackbrewing.com/",
     "hide": false,
     "uuid": "d35ecb50-d787-4ee6-a699-2dafe2947741"
+  },
+  {
+    "lineup": "North Mississippi Allstars, Brady Blade Sr. & The Hallelujah Train, Melissa Carper",
+    "title": "Fayetteville Roots Festival",
+    "eventLink": "https://www.fayettevilleroots.org/festival-schedule",
+    "date": "2022-08-27",
+    "time": "19:00",
+    "venueName": "Fayetteville Towncenter",
+    "venueLink": "",
+    "hide": false,
+    "uuid": "d03e2122-7baf-4fbf-bea4-a950616ef148"
   },
   {
     "lineup": "Benjamin Del Shreve Band",
@@ -372,6 +493,39 @@ const __the__list__ = [
     "venueLink": "http://smokeandbarrel.com/",
     "hide": false,
     "uuid": "c3669244-4f60-43ed-962b-3242bac39a72"
+  },
+  {
+    "lineup": "Arlo McKinley, Logan Halsted",
+    "title": "Fayetteville Roots Festival",
+    "eventLink": "https://www.fayettevilleroots.org/festival-schedule",
+    "date": "2022-08-27",
+    "time": "21:30",
+    "venueName": "George’s Majestic Lounge",
+    "venueLink": "",
+    "hide": false,
+    "uuid": "f38980e5-a84d-49f8-a43d-564e65164cf2"
+  },
+  {
+    "lineup": "Bonnie Montgomery",
+    "title": "Fayetteville Roots Festival",
+    "eventLink": "https://www.fayettevilleroots.org/festival-schedule",
+    "date": "2022-08-27",
+    "time": "22:00",
+    "venueName": "Maxine's Taproom",
+    "venueLink": "",
+    "hide": false,
+    "uuid": "6aa095ae-5994-4a19-933d-dc68a4c9d138"
+  },
+  {
+    "lineup": "Missy Raines, Allegheny",
+    "title": "Fayetteville Roots Festival",
+    "eventLink": "https://www.fayettevilleroots.org/festival-schedule",
+    "date": "2022-08-27",
+    "time": "23:30",
+    "venueName": "Roots HQ",
+    "venueLink": "",
+    "hide": false,
+    "uuid": "4b768912-c83f-40fd-9930-e4fd8bd8149b"
   },
   {
     "lineup": "Michael Rowan",
