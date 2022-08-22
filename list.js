@@ -1,181 +1,5 @@
 const __the__list__ = [
   {
-    "lineup": "Incubus, Sublime with Rome, The Aquadolls",
-    "title": "",
-    "date": "2022-08-16",
-    "time": "19:00",
-    "venueName": "Walmart AMP",
-    "venueLink": "https://waltonartscenter.org/AMP/",
-    "eventLink": "https://waltonartscenter.org/AMP/upcoming-concerts/incubus/",
-    "hide": false,
-    "uuid": "17328613-437d-4cf9-a488-59b3e6490f1f"
-  },
-  {
-    "lineup": "Peter Rexford",
-    "title": "",
-    "date": "2022-08-16",
-    "time": "19:00",
-    "venueName": "Six Twelve",
-    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "eventLink": "https://www.facebook.com/events/1074206529844381",
-    "hide": false,
-    "uuid": "8be3a7dc-72c8-4166-ac9d-6ba2beb6c493"
-  },
-  {
-    "lineup": "Ben Harris",
-    "title": "",
-    "eventLink": "https://www.facebook.com/events/597251831796865",
-    "date": "2022-08-17",
-    "time": "17:00",
-    "venueName": "Six Twelve",
-    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "hide": false,
-    "uuid": "312f8d9c-4eaa-4a2e-9f53-1e6ecdb51c06"
-  },
-  {
-    "lineup": "Melody Pond",
-    "title": "",
-    "date": "2022-08-18",
-    "time": "19:00",
-    "venueName": "Bike Rack Brewing",
-    "venueLink": "https://bikerackbrewing.com/",
-    "eventLink": "https://www.facebook.com/events/754350252424203",
-    "hide": false,
-    "uuid": "7bdde7f4-9eb3-454f-9d61-8a22ad0c314f"
-  },
-  {
-    "lineup": "Keith Urban, Ingrid Andress",
-    "title": "",
-    "date": "2022-08-18",
-    "time": "19:30",
-    "venueName": "Walmart AMP",
-    "venueLink": "https://waltonartscenter.org/AMP/",
-    "eventLink": "https://waltonartscenter.org/AMP/upcoming-concerts/keith-urban/",
-    "hide": false,
-    "uuid": "fedf6ac0-4bfe-4910-99bc-bff4b4668af6"
-  },
-  {
-    "lineup": "The Gravel Yard",
-    "title": "",
-    "date": "2022-08-18",
-    "time": "20:00",
-    "venueName": "George's Majestic Lounge",
-    "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/event/4658/vn",
-    "hide": false,
-    "uuid": "7982bac9-9055-4d14-bbc1-c6a99ac3f688"
-  },
-  {
-    "lineup": "JerGriffin",
-    "title": "",
-    "eventLink": "https://www.facebook.com/events/823388932156516",
-    "date": "2022-08-18",
-    "time": "20:00",
-    "venueName": "Six Twelve",
-    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "hide": false,
-    "uuid": "33ffb0cc-74b8-4560-9e43-eedb5d4ef127"
-  },
-  {
-    "lineup": "Earl & Them",
-    "title": "",
-    "date": "2022-08-19",
-    "time": "18:00",
-    "venueName": "George's Majestic Lounge",
-    "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/event/4593/vn",
-    "hide": false,
-    "uuid": "eb951e9b-e6bd-46a5-a047-a50fede222a5"
-  },
-  {
-    "lineup": "J Ray Davis",
-    "title": "",
-    "date": "2022-08-19",
-    "time": "19:00",
-    "venueName": "Six Twelve",
-    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "eventLink": "https://www.facebook.com/events/367651798859971",
-    "hide": false,
-    "uuid": "9e756d71-7851-4f3d-9f59-9e5b26501828"
-  },
-  {
-    "lineup": "The Cole Birmingham Band",
-    "title": "",
-    "date": "2022-08-19",
-    "time": "20:00",
-    "venueName": "Six Twelve",
-    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "eventLink": "https://www.facebook.com/events/209642984583805",
-    "hide": false,
-    "uuid": "348f3639-59d3-4253-b108-b94df3d99eb0"
-  },
-  {
-    "lineup": "Ozark Riviera",
-    "title": "",
-    "date": "2022-08-19",
-    "time": "21:30",
-    "venueName": "George's Majestic Lounge",
-    "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/event/4623/vn",
-    "hide": false,
-    "uuid": "6077ac6f-e81c-42b6-b05a-333cc5a709f2"
-  },
-  {
-    "lineup": "Ted Hammig and the Campaign, Bunnyy, Yukon, Sheepfold, Sighed Project, Shiny Object",
-    "title": "Hey June",
-    "eventLink": "https://www.instagram.com/p/CgacL0GPXo2/",
-    "date": "2022-08-20",
-    "time": "17:30",
-    "venueName": "Likewise",
-    "venueLink": "https://likewise.community/",
-    "hide": false,
-    "uuid": "39d68d9f-e183-4a1c-87c3-7e6886fd6506"
-  },
-  {
-    "lineup": "Matteson Gregory",
-    "title": "",
-    "date": "2022-08-20",
-    "time": "19:00",
-    "venueName": "Six Twelve",
-    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "eventLink": "https://www.facebook.com/events/180885264200441",
-    "hide": false,
-    "uuid": "2e72cda9-e093-4530-926c-606a90c1c713"
-  },
-  {
-    "lineup": "The Big Sad, Tao of Lucy, Rant",
-    "title": "",
-    "date": "2022-08-20",
-    "time": "20:00",
-    "venueName": "Nomads Trailside",
-    "venueLink": "https://www.facebook.com/nomadstrailside/",
-    "eventLink": "https://www.facebook.com/events/733567961065265",
-    "hide": false,
-    "uuid": "04d3ac71-6891-44e1-81e0-11c94695c97b"
-  },
-  {
-    "lineup": "Rochelle Bradshaw & Hypnotion",
-    "title": "",
-    "eventLink": "https://stubs.net/event/4430/vn",
-    "date": "2022-08-20",
-    "time": "20:00",
-    "venueName": "Railyard Live",
-    "venueLink": "https://railyardlive.com/",
-    "hide": false,
-    "uuid": "0f5cb5bb-5962-4126-99ec-84cc725f4182"
-  },
-  {
-    "lineup": "Dummy, Olympics",
-    "title": "",
-    "eventLink": "http://smokeandbarrel.com/#2022-08-21On%20The%20Map",
-    "date": "2022-08-21",
-    "time": "21:00",
-    "venueName": "Smoke & Barrel",
-    "venueLink": "http://smokeandbarrel.com/",
-    "hide": false,
-    "uuid": "9409bf79-8f5b-4b3d-b379-6de6525ac5bf"
-  },
-  {
     "lineup": "Jeremiah Griffin",
     "title": "Open Mic Night",
     "eventLink": "https://www.facebook.com/events/2075580209266489",
@@ -352,6 +176,17 @@ const __the__list__ = [
     "uuid": "ac13ecb1-c3c2-4881-ac26-aefeef72b5a8"
   },
   {
+    "lineup": "Project 1268",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/778256609964282",
+    "date": "2022-08-26",
+    "time": "20:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "hide": false,
+    "uuid": "21f97e40-f694-4528-b6ce-e91827512cce"
+  },
+  {
     "lineup": "Maggie Rose, Leyton Robinson",
     "title": "Fayetteville Roots Festival",
     "eventLink": "https://www.fayettevilleroots.org/festival-schedule",
@@ -517,6 +352,17 @@ const __the__list__ = [
     "uuid": "65031d6c-7fa4-45e9-9c34-092ccdda8bec"
   },
   {
+    "lineup": "Dalton Richmond, Losha, Spacebass, Travels",
+    "title": "",
+    "eventLink": "https://stubs.net/event/4827/vn",
+    "date": "2022-08-28",
+    "time": "20:30",
+    "venueName": "George's Majestic Lounge",
+    "venueLink": "https://georgesmajesticlounge.com",
+    "hide": false,
+    "uuid": "189ceffb-7df2-4767-92c0-ed2981a39134"
+  },
+  {
     "lineup": "Circle of Thirds",
     "title": "",
     "date": "2022-08-30",
@@ -581,6 +427,28 @@ const __the__list__ = [
     "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
     "hide": false,
     "uuid": "543a160a-2356-4f2f-afd7-bcae2b126928"
+  },
+  {
+    "lineup": "The Arkansas Philharmonic Orchestra",
+    "title": "Feisty Femmes",
+    "eventLink": "https://arphil.org/arkansas-arts/feisty-femmes/",
+    "date": "2022-09-01",
+    "time": "19:00",
+    "venueName": "The Thaden Performing Arts Center",
+    "venueLink": "",
+    "hide": false,
+    "uuid": "6398a37e-a86f-4fb7-9a38-ed5d5cbfe913"
+  },
+  {
+    "lineup": "BYX Island Party 2022",
+    "title": "Ted Hammig & The Campaign, HARBOUR",
+    "eventLink": "https://stubs.net/event/4825/vn",
+    "date": "2022-09-01",
+    "time": "19:30",
+    "venueName": "George's Majestic Lounge",
+    "venueLink": "https://georgesmajesticlounge.com",
+    "hide": false,
+    "uuid": "2054235a-b806-49f6-bce0-458ad54ac5c1"
   },
   {
     "lineup": "Gone Country",
@@ -902,6 +770,17 @@ const __the__list__ = [
     "uuid": "72fd4c69-aa43-450c-ae44-68df957a2e08"
   },
   {
+    "lineup": "Supernaut, Terminus, The Salesman",
+    "title": "",
+    "eventLink": "http://smokeandbarrel.com/#2022-09-13Supernaut%20",
+    "date": "2022-09-13",
+    "time": "21:00",
+    "venueName": "Smoke & Barrel",
+    "venueLink": "http://smokeandbarrel.com/",
+    "hide": false,
+    "uuid": "0f3c59c5-04df-4398-98bc-e5dd268920cd"
+  },
+  {
     "lineup": "Chris Arcana",
     "title": "",
     "eventLink": "https://www.facebook.com/events/762479165063685",
@@ -1133,6 +1012,17 @@ const __the__list__ = [
     "uuid": "c1f97e13-eca2-4618-b646-a8a2dd851283"
   },
   {
+    "lineup": "Florence Dore w/ members of Son Volt and The dBs",
+    "title": "",
+    "eventLink": "http://smokeandbarrel.com/#2022-09-20Florence%20D",
+    "date": "2022-09-20",
+    "time": "21:00",
+    "venueName": "Smoke & Barrel",
+    "venueLink": "http://smokeandbarrel.com/",
+    "hide": false,
+    "uuid": "828779a0-a3b0-4305-b595-9a955916eba8"
+  },
+  {
     "lineup": "Chicken Wire Empire",
     "title": "",
     "eventLink": "https://stubs.net/event/4738/vn",
@@ -1175,6 +1065,17 @@ const __the__list__ = [
     "venueLink": "https://railyardlive.com/",
     "hide": false,
     "uuid": "de6c9de7-98d0-4aca-aa39-e1220d4eb95d"
+  },
+  {
+    "lineup": "Project 1268",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/609975417356465",
+    "date": "2022-09-23",
+    "time": "20:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "hide": false,
+    "uuid": "5795ed33-1dc0-4747-9917-fac1a1d019ba"
   },
   {
     "lineup": "1 Oz Jig, Green Acres",
@@ -1296,6 +1197,17 @@ const __the__list__ = [
     "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
     "hide": false,
     "uuid": "80678dd8-9f2a-4757-b01c-482436f454dd"
+  },
+  {
+    "lineup": "Ben Harris",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/393798106179030",
+    "date": "2022-09-28",
+    "time": "17:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "hide": false,
+    "uuid": "9e2ecae8-a380-4517-a07e-709c1346cf68"
   },
   {
     "lineup": "The Cate Brothers",
@@ -1450,6 +1362,17 @@ const __the__list__ = [
     "venueLink": "",
     "hide": false,
     "uuid": "b0dd3328-f8eb-4071-a8ac-07acfd485ed8"
+  },
+  {
+    "lineup": "The Arkansas Philharmonic Orchestra",
+    "title": "Innovations: An Investigation of Breakthroughs",
+    "eventLink": "https://arphil.org/arkansas-arts/innovations/",
+    "date": "2022-10-13",
+    "time": "19:00",
+    "venueName": "Crystal Bridges",
+    "venueLink": "https://crystalbridges.org/",
+    "hide": false,
+    "uuid": "81dd6ee8-6879-4ced-bd40-e3f519693941"
   },
   {
     "lineup": "Chasing Grey",
