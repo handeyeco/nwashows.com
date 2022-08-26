@@ -1,104 +1,5 @@
 const __the__list__ = [
   {
-    "lineup": "Jeremiah Griffin",
-    "title": "Open Mic Night",
-    "eventLink": "https://www.facebook.com/events/2075580209266489",
-    "date": "2022-08-23",
-    "time": "19:00",
-    "venueName": "Six Twelve",
-    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "hide": false,
-    "uuid": "a94b5307-0c5e-4404-a31c-5535722bc1f8"
-  },
-  {
-    "lineup": "Ben Harris",
-    "title": "",
-    "eventLink": "https://www.facebook.com/events/770303677499929",
-    "date": "2022-08-24",
-    "time": "17:00",
-    "venueName": "Six Twelve",
-    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "hide": false,
-    "uuid": "b0100fda-0342-4471-b82c-77a6b6a35279"
-  },
-  {
-    "lineup": "Snake Father, Tel Anorath, Lost Cause",
-    "title": "",
-    "eventLink": "https://www.facebook.com/events/1249507575787930",
-    "date": "2022-08-25",
-    "time": "17:00",
-    "venueName": "Nomads Trailside",
-    "venueLink": "https://www.facebook.com/nomadstrailside/",
-    "hide": false,
-    "uuid": "4d319af4-6b60-4ef9-9288-32321f999597"
-  },
-  {
-    "lineup": "The Wood Brothers, Molly Tuttle & Golden Highway, Joe Purdy",
-    "title": "Fayetteville Roots Festival",
-    "eventLink": "https://www.fayettevilleroots.org/festival-schedule",
-    "date": "2022-08-25",
-    "time": "17:00",
-    "venueName": "Fayetteville Public Library",
-    "venueLink": "",
-    "hide": false,
-    "uuid": "e2d0918b-c52e-45aa-b9fc-cd040fec2abf"
-  },
-  {
-    "lineup": "James \"Daddy\" Miller",
-    "title": "",
-    "date": "2022-08-25",
-    "time": "18:00",
-    "venueName": "Six Twelve",
-    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "eventLink": "https://www.facebook.com/events/531103535368397",
-    "hide": false,
-    "uuid": "997d18fd-c6e8-4489-888b-318a425d0c17"
-  },
-  {
-    "lineup": "Randall Shreve",
-    "title": "",
-    "date": "2022-08-25",
-    "time": "19:00",
-    "venueName": "Bike Rack Brewing",
-    "venueLink": "https://bikerackbrewing.com/",
-    "eventLink": "https://www.facebook.com/events/397161459051237",
-    "hide": false,
-    "uuid": "bec5d132-865d-42ab-8916-beb31761922c"
-  },
-  {
-    "lineup": "Wilderado, Michigander",
-    "title": "",
-    "date": "2022-08-25",
-    "time": "20:30",
-    "venueName": "George's Majestic Lounge",
-    "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/event/4574/vn",
-    "hide": false,
-    "uuid": "9734cf95-1908-49be-becf-54a0ecd539e5"
-  },
-  {
-    "lineup": "DeFrance",
-    "title": "",
-    "eventLink": "http://smokeandbarrel.com/#2022-08-25DeFrance",
-    "date": "2022-08-25",
-    "time": "21:00",
-    "venueName": "Smoke & Barrel",
-    "venueLink": "http://smokeandbarrel.com/",
-    "hide": false,
-    "uuid": "0360b762-9ec2-466e-aa1c-92d1eec8b467"
-  },
-  {
-    "lineup": "Fireside Collective",
-    "title": "Fayetteville Roots Festival",
-    "eventLink": "https://www.fayettevilleroots.org/festival-schedule",
-    "date": "2022-08-25",
-    "time": "23:30",
-    "venueName": "Roots HQ",
-    "venueLink": "",
-    "hide": false,
-    "uuid": "04a930ef-4595-482f-b6ad-01106e7efa6f"
-  },
-  {
     "lineup": "Reggie James Gospel, Tray Weillington, Samantha Crain, Dead Horses",
     "title": "Fayetteville Roots Festival",
     "eventLink": "https://www.fayettevilleroots.org/festival-schedule",
@@ -583,6 +484,17 @@ const __the__list__ = [
     "uuid": "b84f1f38-668b-4aaa-becb-ca5e6eceeef1"
   },
   {
+    "lineup": "Ben Harris",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/760936455333279",
+    "date": "2022-09-07",
+    "time": "17:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "hide": false,
+    "uuid": "a8262159-c720-4fff-bc68-bc82bc89ebcd"
+  },
+  {
     "lineup": "The Phase",
     "title": "",
     "date": "2022-09-07",
@@ -647,6 +559,17 @@ const __the__list__ = [
     "eventLink": "https://www.facebook.com/events/1621000668252561",
     "hide": false,
     "uuid": "3091e6bb-64e2-4182-8b65-1eea22bc6790"
+  },
+  {
+    "lineup": "Dial Up",
+    "title": "",
+    "eventLink": "https://www.jjslive.com/event/fundraiser-dial-up-september-9/",
+    "date": "2022-09-09",
+    "time": "19:00",
+    "venueName": "JJ's Live",
+    "venueLink": "https://www.jjslive.com",
+    "hide": false,
+    "uuid": "3d745ac0-21b0-4179-ade3-2a83e63a6d3f"
   },
   {
     "lineup": "Simply Seger",
@@ -1023,6 +946,17 @@ const __the__list__ = [
     "uuid": "828779a0-a3b0-4305-b595-9a955916eba8"
   },
   {
+    "lineup": "Ben Harris",
+    "title": "",
+    "eventLink": "https://www.facebook.com/events/465210421869305",
+    "date": "2022-09-21",
+    "time": "17:00",
+    "venueName": "Six Twelve",
+    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
+    "hide": false,
+    "uuid": "28f8155d-9985-422d-9494-60cf55337c10"
+  },
+  {
     "lineup": "Chicken Wire Empire",
     "title": "",
     "eventLink": "https://stubs.net/event/4738/vn",
@@ -1221,6 +1155,17 @@ const __the__list__ = [
     "uuid": "60106fcf-a96f-426b-ab84-f7bba95b7072"
   },
   {
+    "lineup": "Justin Moore, Kinch",
+    "title": "",
+    "eventLink": "https://www.jjslive.com/event/justin-moore-september-30/",
+    "date": "2022-09-30",
+    "time": "18:00",
+    "venueName": "JJ's Live",
+    "venueLink": "https://www.jjslive.com",
+    "hide": false,
+    "uuid": "1791fa51-3e08-45ff-ab0e-80b20fb33d35"
+  },
+  {
     "lineup": "Koe Wetzel, Aaron Lewis, Kolby Cooper",
     "title": "",
     "eventLink": "https://waltonartscenter.org/AMP/upcoming-concerts/koe-wetzel/",
@@ -1287,6 +1232,17 @@ const __the__list__ = [
     "uuid": "cc90bea0-3d04-4ff9-8128-0b4d052d41c7"
   },
   {
+    "lineup": "Jenna & The Soul Shakers",
+    "title": "Lagers & Lederhosen",
+    "eventLink": "https://www.facebook.com/events/449522747091378",
+    "date": "2022-10-01",
+    "time": "15:00",
+    "venueName": "Bike Rack Brewing",
+    "venueLink": "https://bikerackbrewing.com/",
+    "hide": false,
+    "uuid": "e968e6ff-053b-4f9a-a55b-cb59852883db"
+  },
+  {
     "lineup": "Peter Rexford",
     "title": "",
     "eventLink": "https://www.facebook.com/events/743423376969770",
@@ -1307,6 +1263,17 @@ const __the__list__ = [
     "venueLink": "https://georgesmajesticlounge.com",
     "hide": false,
     "uuid": "2616b7a5-ddd8-41fc-b037-acbb834bdd3f"
+  },
+  {
+    "lineup": "The Salesman, Protohive, TV Preacher",
+    "title": "",
+    "eventLink": "http://smokeandbarrel.com/#2022-10-01The%20Salesm",
+    "date": "2022-10-01",
+    "time": "21:00",
+    "venueName": "Smoke & Barrel",
+    "venueLink": "http://smokeandbarrel.com/",
+    "hide": false,
+    "uuid": "c2c4c99d-c406-4904-9c44-9fd46c34b29a"
   },
   {
     "lineup": "Jenna and the Soul Shakers",
