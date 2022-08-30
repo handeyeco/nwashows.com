@@ -352,6 +352,17 @@ const __the__list__ = [
     "uuid": "71413916-591d-45bb-bec2-a40c2e38e6f1"
   },
   {
+    "lineup": "She's Us",
+    "title": "",
+    "eventLink": "https://mountsequoyah.networkforgood.com/events/44522-music-on-the-mountain-she-s-us-september-10-2022",
+    "date": "2022-09-10",
+    "time": "19:00",
+    "venueName": "Mount Sequoyah",
+    "venueLink": "https://mountsequoyah.org/",
+    "hide": false,
+    "uuid": "89e72ab5-19b9-4e58-86bd-e6533c291c4d"
+  },
+  {
     "lineup": "Panic Stricken",
     "title": "A Tribute to Widespread Panic",
     "eventLink": "https://stubs.net/event/4435/vn",
@@ -913,6 +924,17 @@ const __the__list__ = [
     "uuid": "1791fa51-3e08-45ff-ab0e-80b20fb33d35"
   },
   {
+    "lineup": "Kalyn Fay",
+    "title": "",
+    "eventLink": "https://mountsequoyah.networkforgood.com/events/47144-music-on-the-mountain-kalyn-fay-september-30th",
+    "date": "2022-09-30",
+    "time": "18:30",
+    "venueName": "Mount Sequoyah",
+    "venueLink": "https://mountsequoyah.org/",
+    "hide": false,
+    "uuid": "b0aac3aa-0171-42f1-bac5-ae8d8284ba02"
+  },
+  {
     "lineup": "Koe Wetzel, Aaron Lewis, Kolby Cooper",
     "title": "",
     "eventLink": "https://waltonartscenter.org/AMP/upcoming-concerts/koe-wetzel/",
@@ -1098,6 +1120,17 @@ const __the__list__ = [
     "venueLink": "https://railyardlive.com/",
     "hide": false,
     "uuid": "fa7cc7c4-1ef6-4730-85e0-655a41467095"
+  },
+  {
+    "lineup": "Mark Stuart",
+    "title": "",
+    "eventLink": "https://mountsequoyah.networkforgood.com/events/46231-music-on-the-mountain-mark-stuart-october-7?utm_campaign=dms_email_blast_1990706",
+    "date": "2022-10-07",
+    "time": "18:00",
+    "venueName": "Mount Sequoyah",
+    "venueLink": "https://mountsequoyah.org/",
+    "hide": false,
+    "uuid": "bc2e8d2f-6759-44f8-8a7c-3294d3ad266d"
   },
   {
     "lineup": "The Arkansas Philharmonic Orchestra",
