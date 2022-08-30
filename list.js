@@ -1,267 +1,14 @@
 const __the__list__ = [
   {
-    "lineup": "Reggie James Gospel, Tray Weillington, Samantha Crain, Dead Horses",
-    "title": "Fayetteville Roots Festival",
-    "eventLink": "https://www.fayettevilleroots.org/festival-schedule",
-    "date": "2022-08-26",
-    "time": "11:30",
-    "venueName": "Fayetteville Public Library",
-    "venueLink": "",
-    "hide": false,
-    "uuid": "22dc7646-bc81-4b89-83d3-2d6cb95d657c"
-  },
-  {
-    "lineup": "J Wagner, Meadow Makers",
-    "title": "Fayetteville Roots Festival",
-    "eventLink": "https://www.fayettevilleroots.org/festival-schedule",
-    "date": "2022-08-26",
-    "time": "16:00",
-    "venueName": "Roots HQ",
-    "venueLink": "",
-    "hide": false,
-    "uuid": "e10a2e45-e824-405c-a13f-38ef0a07ec52"
-  },
-  {
-    "lineup": "Paul Benjaman & Friends",
-    "title": "Steve Pryor Tribute",
-    "date": "2022-08-26",
+    "lineup": "CDS-R, One Penny Shy",
+    "title": "Interform Open Mic",
+    "eventLink": "https://www.instagram.com/p/ChsKhLtOrfv/",
+    "date": "2022-08-30",
     "time": "18:00",
-    "venueName": "George's Majestic Lounge",
-    "venueLink": "https://georgesmajesticlounge.com",
-    "eventLink": "https://stubs.net/event/4725/vn",
+    "venueName": "Mount Sequoyah (Millar Lodge)",
+    "venueLink": "https://mountsequoyah.org/",
     "hide": false,
-    "uuid": "44e1f7c0-c7b5-4822-bca1-d5e8a351e1f9"
-  },
-  {
-    "lineup": "Oliver Tree",
-    "title": "",
-    "date": "2022-08-26",
-    "time": "18:00",
-    "venueName": "JJ's Live",
-    "venueLink": "https://www.jjslive.com",
-    "eventLink": "https://www.jjslive.com/event/oliver-tree-august-26/",
-    "hide": false,
-    "uuid": "585b893c-ffc2-43db-be02-2084dbb6ab21"
-  },
-  {
-    "lineup": "Morgan Wallen, HARDY",
-    "title": "",
-    "date": "2022-08-26",
-    "time": "19:00",
-    "venueName": "Walmart AMP",
-    "venueLink": "https://waltonartscenter.org/AMP/",
-    "eventLink": "https://waltonartscenter.org/AMP/upcoming-concerts/morgan-wallen/",
-    "hide": false,
-    "uuid": "94a3c0ea-890d-41ba-a5e5-8f38cb688b7c"
-  },
-  {
-    "lineup": "Taj Mahal, Bettye LaVette, Peter Rowan Bluegrass Band",
-    "title": "Fayetteville Roots Festival",
-    "eventLink": "https://www.fayettevilleroots.org/festival-schedule",
-    "date": "2022-08-26",
-    "time": "19:00",
-    "venueName": "Fayetteville Towncenter",
-    "venueLink": "",
-    "hide": false,
-    "uuid": "ce0e37a9-50d6-491e-a3c2-6a444b7f1af0"
-  },
-  {
-    "lineup": "The Nace Brothers",
-    "title": "",
-    "eventLink": "https://stubs.net/event/4432/vn",
-    "date": "2022-08-26",
-    "time": "20:00",
-    "venueName": "Railyard Live",
-    "venueLink": "https://railyardlive.com/",
-    "hide": false,
-    "uuid": "ac13ecb1-c3c2-4881-ac26-aefeef72b5a8"
-  },
-  {
-    "lineup": "Project 1268",
-    "title": "",
-    "eventLink": "https://www.facebook.com/events/778256609964282",
-    "date": "2022-08-26",
-    "time": "20:00",
-    "venueName": "Six Twelve",
-    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "hide": false,
-    "uuid": "21f97e40-f694-4528-b6ce-e91827512cce"
-  },
-  {
-    "lineup": "Maggie Rose, Leyton Robinson",
-    "title": "Fayetteville Roots Festival",
-    "eventLink": "https://www.fayettevilleroots.org/festival-schedule",
-    "date": "2022-08-26",
-    "time": "20:30",
-    "venueName": "George's Majestic Lounge",
-    "venueLink": "",
-    "hide": false,
-    "uuid": "6a8560a3-a2f7-4ea1-8b86-709ccf564691"
-  },
-  {
-    "lineup": "Dylan Earl",
-    "title": "Fayetteville Roots Festival",
-    "eventLink": "https://www.fayettevilleroots.org/festival-schedule",
-    "date": "2022-08-26",
-    "time": "22:00",
-    "venueName": "Maxine's Taproom",
-    "venueLink": "",
-    "hide": false,
-    "uuid": "e8a936da-58c5-4c27-b1ec-737562f14b58"
-  },
-  {
-    "lineup": "Sad Daddy",
-    "title": "Fayetteville Roots Festival",
-    "eventLink": "https://www.fayettevilleroots.org/festival-schedule",
-    "date": "2022-08-26",
-    "time": "23:30",
-    "venueName": "Roots HQ",
-    "venueLink": "",
-    "hide": false,
-    "uuid": "91f76742-58fd-47b4-b4a9-c8f53ab5ce0b"
-  },
-  {
-    "lineup": "Rachel Ammons, Radio Free Honduras, The Honey Dewdrops, Brother Brothers",
-    "title": "Fayetteville Roots Festival",
-    "eventLink": "https://www.fayettevilleroots.org/festival-schedule",
-    "date": "2022-08-27",
-    "time": "11:30",
-    "venueName": "Fayetteville Public Library",
-    "venueLink": "",
-    "hide": false,
-    "uuid": "a85b609a-f698-4fdd-a7ce-01e06caf65f9"
-  },
-  {
-    "lineup": "Shannon Wurst, Sons of Otis Malone",
-    "title": "Fayetteville Roots Festival",
-    "eventLink": "https://www.fayettevilleroots.org/festival-schedule",
-    "date": "2022-08-27",
-    "time": "16:00",
-    "venueName": "Roots HQ",
-    "venueLink": "",
-    "hide": false,
-    "uuid": "c5336d06-c124-4206-a4d6-60a98c9a8a33"
-  },
-  {
-    "lineup": "Foggy Bobcat",
-    "title": "",
-    "eventLink": "https://www.facebook.com/events/1427781554382067",
-    "date": "2022-08-27",
-    "time": "19:00",
-    "venueName": "Bike Rack Brewing",
-    "venueLink": "https://bikerackbrewing.com/",
-    "hide": false,
-    "uuid": "d35ecb50-d787-4ee6-a699-2dafe2947741"
-  },
-  {
-    "lineup": "North Mississippi Allstars, Brady Blade Sr. & The Hallelujah Train, Melissa Carper",
-    "title": "Fayetteville Roots Festival",
-    "eventLink": "https://www.fayettevilleroots.org/festival-schedule",
-    "date": "2022-08-27",
-    "time": "19:00",
-    "venueName": "Fayetteville Towncenter",
-    "venueLink": "",
-    "hide": false,
-    "uuid": "d03e2122-7baf-4fbf-bea4-a950616ef148"
-  },
-  {
-    "lineup": "Benjamin Del Shreve Band",
-    "title": "",
-    "eventLink": "https://stubs.net/event/4431/vn",
-    "date": "2022-08-27",
-    "time": "20:00",
-    "venueName": "Railyard Live",
-    "venueLink": "https://railyardlive.com/",
-    "hide": false,
-    "uuid": "2253b8b6-1fdb-489a-951a-5d7ae4aaef19"
-  },
-  {
-    "lineup": "ATM, Nerdy Verde",
-    "title": "",
-    "eventLink": "https://www.facebook.com/events/707059507059491",
-    "date": "2022-08-27",
-    "time": "20:00",
-    "venueName": "Nomads Trailside",
-    "venueLink": "https://www.facebook.com/nomadstrailside/",
-    "hide": false,
-    "uuid": "b6cf9e6f-86e3-4630-a974-ae5683bec70a"
-  },
-  {
-    "lineup": "3Pines, Chooch & Friends",
-    "title": "",
-    "eventLink": "https://www.facebook.com/events/3265233620424675",
-    "date": "2022-08-27",
-    "time": "20:00",
-    "venueName": "Kingfish",
-    "venueLink": "https://www.kingfishbar.com/",
-    "hide": false,
-    "uuid": "a488ef57-6cfb-4e76-9b69-c1398a8435d2"
-  },
-  {
-    "lineup": "Dance Monkey Dance, 1oz Jig",
-    "title": "",
-    "eventLink": "http://smokeandbarrel.com/#2022-08-27Dance%20Monk",
-    "date": "2022-08-27",
-    "time": "21:00",
-    "venueName": "Smoke & Barrel",
-    "venueLink": "http://smokeandbarrel.com/",
-    "hide": false,
-    "uuid": "c3669244-4f60-43ed-962b-3242bac39a72"
-  },
-  {
-    "lineup": "Arlo McKinley, Logan Halsted",
-    "title": "Fayetteville Roots Festival",
-    "eventLink": "https://www.fayettevilleroots.org/festival-schedule",
-    "date": "2022-08-27",
-    "time": "21:30",
-    "venueName": "George's Majestic Lounge",
-    "venueLink": "",
-    "hide": false,
-    "uuid": "f38980e5-a84d-49f8-a43d-564e65164cf2"
-  },
-  {
-    "lineup": "Bonnie Montgomery",
-    "title": "Fayetteville Roots Festival",
-    "eventLink": "https://www.fayettevilleroots.org/festival-schedule",
-    "date": "2022-08-27",
-    "time": "22:00",
-    "venueName": "Maxine's Taproom",
-    "venueLink": "",
-    "hide": false,
-    "uuid": "6aa095ae-5994-4a19-933d-dc68a4c9d138"
-  },
-  {
-    "lineup": "Missy Raines, Allegheny",
-    "title": "Fayetteville Roots Festival",
-    "eventLink": "https://www.fayettevilleroots.org/festival-schedule",
-    "date": "2022-08-27",
-    "time": "23:30",
-    "venueName": "Roots HQ",
-    "venueLink": "",
-    "hide": false,
-    "uuid": "4b768912-c83f-40fd-9930-e4fd8bd8149b"
-  },
-  {
-    "lineup": "Michael Rowan",
-    "title": "",
-    "eventLink": "https://www.facebook.com/events/1097394061177802",
-    "date": "2022-08-28",
-    "time": "19:00",
-    "venueName": "Six Twelve",
-    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "hide": false,
-    "uuid": "65031d6c-7fa4-45e9-9c34-092ccdda8bec"
-  },
-  {
-    "lineup": "Dalton Richmond, Losha, Spacebass, Travels",
-    "title": "",
-    "eventLink": "https://stubs.net/event/4827/vn",
-    "date": "2022-08-28",
-    "time": "20:30",
-    "venueName": "George's Majestic Lounge",
-    "venueLink": "https://georgesmajesticlounge.com",
-    "hide": false,
-    "uuid": "189ceffb-7df2-4767-92c0-ed2981a39134"
+    "uuid": "027e0060-330b-4e1d-b6bd-01168266d1cb"
   },
   {
     "lineup": "Circle of Thirds",
@@ -1320,6 +1067,17 @@ const __the__list__ = [
     "uuid": "41a73813-c60c-4c77-9299-a01e17f2740b"
   },
   {
+    "lineup": "Bikes Blues and BBQ",
+    "title": "90lb Wrench, Chris Cameron Band, The Swade Diablos, Gary Hutchison",
+    "eventLink": "https://stubs.net/event/4830/vn",
+    "date": "2022-10-06",
+    "time": "16:00",
+    "venueName": "Railyard Live",
+    "venueLink": "https://railyardlive.com/",
+    "hide": false,
+    "uuid": "544f6acd-5eab-485d-8d46-c6e59d417c4f"
+  },
+  {
     "lineup": "Amato Music, Rachel Ammons, Modeling",
     "title": "First Thursday",
     "eventLink": "https://www.experiencefayetteville.com/experience/first-thursday",
@@ -1329,6 +1087,17 @@ const __the__list__ = [
     "venueLink": "",
     "hide": false,
     "uuid": "b0dd3328-f8eb-4071-a8ac-07acfd485ed8"
+  },
+  {
+    "lineup": "Bikes Blues and BBQ",
+    "title": "Josh Hoyer & Soul Colossal, The Juice, Green Acres, Jon Dooly",
+    "eventLink": "https://stubs.net/event/4832/vn",
+    "date": "2022-10-07",
+    "time": "15:00",
+    "venueName": "Railyard Live",
+    "venueLink": "https://railyardlive.com/",
+    "hide": false,
+    "uuid": "fa7cc7c4-1ef6-4730-85e0-655a41467095"
   },
   {
     "lineup": "The Arkansas Philharmonic Orchestra",
