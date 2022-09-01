@@ -1,60 +1,5 @@
 const __the__list__ = [
   {
-    "lineup": "CDS-R, One Penny Shy",
-    "title": "Interform Open Mic",
-    "eventLink": "https://www.instagram.com/p/ChsKhLtOrfv/",
-    "date": "2022-08-30",
-    "time": "18:00",
-    "venueName": "Mount Sequoyah (Millar Lodge)",
-    "venueLink": "https://mountsequoyah.org/",
-    "hide": false,
-    "uuid": "027e0060-330b-4e1d-b6bd-01168266d1cb"
-  },
-  {
-    "lineup": "Circle of Thirds",
-    "title": "",
-    "date": "2022-08-30",
-    "time": "19:00",
-    "venueName": "Six Twelve",
-    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "eventLink": "https://www.facebook.com/events/558465519332928",
-    "hide": false,
-    "uuid": "8b71d9ae-8473-4d99-8d7f-15b014062a04"
-  },
-  {
-    "lineup": "Butcher Babies",
-    "title": "",
-    "eventLink": "https://stubs.net/event/4778/vn",
-    "date": "2022-08-30",
-    "time": "19:30",
-    "venueName": "George's Majestic Lounge",
-    "venueLink": "https://georgesmajesticlounge.com",
-    "hide": false,
-    "uuid": "552a7e02-1db4-4f5b-bded-03d9c5efdf10"
-  },
-  {
-    "lineup": "Nate Fredrick",
-    "title": "",
-    "eventLink": "http://smokeandbarrel.com/#2022-08-30Nate%20Fredr",
-    "date": "2022-08-30",
-    "time": "21:00",
-    "venueName": "Smoke & Barrel",
-    "venueLink": "http://smokeandbarrel.com/",
-    "hide": false,
-    "uuid": "ff9c8e8f-c021-4b43-8d33-426e88616478"
-  },
-  {
-    "lineup": "Ben Harris",
-    "title": "",
-    "date": "2022-08-31",
-    "time": "17:00",
-    "venueName": "Six Twelve",
-    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "eventLink": "https://www.facebook.com/events/5533283670027681",
-    "hide": false,
-    "uuid": "5a6efb0f-b80d-4afb-9821-1210045dca18"
-  },
-  {
     "lineup": "DJ Dribblz, Amos Cochran, Baang",
     "title": "First Thursday",
     "eventLink": "https://www.experiencefayetteville.com/experience/first-thursday",
@@ -482,6 +427,17 @@ const __the__list__ = [
     "venueLink": "http://smokeandbarrel.com/",
     "hide": false,
     "uuid": "f05fa3c4-9910-424f-8902-41b3048d4d18"
+  },
+  {
+    "lineup": "Jasper Logan",
+    "title": "First Thursday",
+    "eventLink": "https://www.facebook.com/events/3183936221856654/",
+    "date": "2022-09-15",
+    "time": "17:30",
+    "venueName": "Fayetteville Square",
+    "venueLink": "",
+    "hide": false,
+    "uuid": "b1162696-45a5-4e34-88da-58864c0ff217"
   },
   {
     "lineup": "JerGriffin",
