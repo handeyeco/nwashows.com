@@ -1,126 +1,5 @@
 const __the__list__ = [
   {
-    "lineup": "Alice in Chains, Breaking Benjamin, Bush, Plush",
-    "title": "",
-    "eventLink": "https://waltonartscenter.org/AMP/upcoming-concerts/alice-in-chains-breaking-benjamin/",
-    "date": "2022-09-20",
-    "time": "17:30",
-    "venueName": "Walmart AMP",
-    "venueLink": "https://waltonartscenter.org/AMP/",
-    "hide": false,
-    "uuid": "c1f97e13-eca2-4618-b646-a8a2dd851283"
-  },
-  {
-    "lineup": "Florence Dore w/ members of Son Volt and The dBs",
-    "title": "",
-    "eventLink": "http://smokeandbarrel.com/#2022-09-20Florence%20D",
-    "date": "2022-09-20",
-    "time": "21:00",
-    "venueName": "Smoke & Barrel",
-    "venueLink": "http://smokeandbarrel.com/",
-    "hide": false,
-    "uuid": "828779a0-a3b0-4305-b595-9a955916eba8"
-  },
-  {
-    "lineup": "Ben Harris",
-    "title": "",
-    "eventLink": "https://www.facebook.com/events/465210421869305",
-    "date": "2022-09-21",
-    "time": "17:00",
-    "venueName": "Six Twelve",
-    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "hide": false,
-    "uuid": "28f8155d-9985-422d-9494-60cf55337c10"
-  },
-  {
-    "lineup": "James Daddy Miller",
-    "title": "",
-    "eventLink": "https://www.facebook.com/events/745069119904902",
-    "date": "2022-09-22",
-    "time": "18:00",
-    "venueName": "Six Twelve",
-    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "hide": false,
-    "uuid": "85af3947-23aa-4244-bafd-2091b3071bdb"
-  },
-  {
-    "lineup": "Chicken Wire Empire",
-    "title": "",
-    "eventLink": "https://stubs.net/event/4738/vn",
-    "date": "2022-09-22",
-    "time": "20:00",
-    "venueName": "George's Majestic Lounge",
-    "venueLink": "https://georgesmajesticlounge.com",
-    "hide": false,
-    "uuid": "3db45119-a964-4b54-a0d3-01dd763d2442"
-  },
-  {
-    "lineup": "Phoenix, The War on Drugs,  Nile Rodgers & Chic, The Marías, Richie Hawtin, Fatboy Slim, Robert Glasper, Leftover Salmon, Joe Kay, Lindstrøm, Shygirl, Del Water Gap, La Doña, Ela Minus, Amémé, Mindchatter, Charlotte Adigéry & Bolis Pupul, Rigopolar, Calder Allen, The Malcriaos Band, Gouranga Clan, Serrano-Torres, Honey Collective, The Past Lives, Museum of Love",
-    "title": "Format Festival",
-    "eventLink": "https://www.format-festival.com/",
-    "date": "2022-09-23",
-    "time": "12:00",
-    "venueName": "Sugar Creek Airstrip",
-    "venueLink": "",
-    "hide": false,
-    "uuid": "66331356-c118-4f4c-8117-a3dc9aa41f3a"
-  },
-  {
-    "lineup": "Leah & the Mojo Doctors",
-    "title": "",
-    "eventLink": "https://stubs.net/event/4739/vn",
-    "date": "2022-09-23",
-    "time": "18:00",
-    "venueName": "George's Majestic Lounge",
-    "venueLink": "https://georgesmajesticlounge.com",
-    "hide": false,
-    "uuid": "a1e6e4a6-16fe-4364-a83e-3b9988b6e90c"
-  },
-  {
-    "lineup": "Dawson Hollow",
-    "title": "",
-    "eventLink": "https://stubs.net/event/4439/vn",
-    "date": "2022-09-23",
-    "time": "20:00",
-    "venueName": "Railyard Live",
-    "venueLink": "https://railyardlive.com/",
-    "hide": false,
-    "uuid": "de6c9de7-98d0-4aca-aa39-e1220d4eb95d"
-  },
-  {
-    "lineup": "Project 1268",
-    "title": "",
-    "eventLink": "https://www.facebook.com/events/609975417356465",
-    "date": "2022-09-23",
-    "time": "20:00",
-    "venueName": "Six Twelve",
-    "venueLink": "https://www.facebook.com/sixtwelvecoffeehouseandbar",
-    "hide": false,
-    "uuid": "5795ed33-1dc0-4747-9917-fac1a1d019ba"
-  },
-  {
-    "lineup": "1 Oz Jig, Green Acres",
-    "title": "",
-    "eventLink": "https://stubs.net/event/4659/vn",
-    "date": "2022-09-23",
-    "time": "21:00",
-    "venueName": "George's Majestic Lounge",
-    "venueLink": "https://georgesmajesticlounge.com",
-    "hide": false,
-    "uuid": "54911165-5397-45b6-a8b4-cfa4a85ba22c"
-  },
-  {
-    "lineup": "Front Porch",
-    "title": "",
-    "eventLink": "http://smokeandbarrel.com/#2022-09-23Front%20Porc",
-    "date": "2022-09-23",
-    "time": "21:00",
-    "venueName": "Smoke & Barrel",
-    "venueLink": "http://smokeandbarrel.com/",
-    "hide": false,
-    "uuid": "6e991fe6-6419-46cf-8920-fc94209fa27a"
-  },
-  {
     "lineup": "Rüfüs Du Sol, Beach House, The Flaming Lips , Moses Sumney, Elle King, Seth Troxler, Third World, The Comet Is Coming, Christone \"Kingfish” Ingram, Seun Kuti & Egypt 80, Yussef Dayes, Chali2na & Cut Chemist, Palace, Acid Pauli, Chloé Caillet, Quantic the Illustrious Blacks, New Breed Brass Band, Dombrance, The Mauskovic Dance Band, Black Party, Alan Power, Francois K, Bas Ibellini, Gouranga Clan, Katie Schecter, The Phlegms, Kalyn Fay, Como Las Movies, Auralai, Gente Privada, Black Bananas",
     "title": "Format Festival",
     "eventLink": "https://www.format-festival.com/",
@@ -977,6 +856,17 @@ const __the__list__ = [
     "venueLink": "https://georgesmajesticlounge.com",
     "hide": false,
     "uuid": "ae2eb3e1-f878-460a-968a-c1c1d58ad113"
+  },
+  {
+    "lineup": "Kelsey Lamb, Green Acres Band, Ted Hammig & The Campaign, Gavin Sumerall",
+    "title": "No Stomach for Cancer Benefit Concert",
+    "eventLink": "https://nostomachforcancer.org/first-nsfc-benefit-concert/",
+    "date": "2022-10-29",
+    "time": "14:00",
+    "venueName": "Fayetteville Town Center",
+    "venueLink": "https://www.twncenter.com/",
+    "hide": false,
+    "uuid": "931bb31e-a23e-48bd-b1b4-bd09f56750dd"
   },
   {
     "lineup": "Kary Middleton, Chris Spurgeon, Joe Harris",
