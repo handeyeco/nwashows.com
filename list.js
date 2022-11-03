@@ -286,17 +286,6 @@ const __the__list__ = [
     "uuid": "85c39581-bb1f-4f44-afd7-618f57a408dc"
   },
   {
-    "lineup": "Handmade Moments, Noah Richmond’s Little Monster, Dana Louise and the Glorious Birds",
-    "title": "",
-    "eventLink": "https://stubs.net/event/4907/vn",
-    "date": "2022-11-25",
-    "time": "21:00",
-    "venueName": "George's Majestic Lounge",
-    "venueLink": "https://georgesmajesticlounge.com",
-    "hide": false,
-    "uuid": "18d13ff2-7103-49fa-acfe-4542c93b6280"
-  },
-  {
     "lineup": "Jer's itty bitty BIG Jazz Band",
     "title": "",
     "eventLink": "https://www.facebook.com/events/692831018719854",
